@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Customer_City,Customer_State,Category,Sub_Category,Product_Name,Price,Quantity,Discount_Percentage,Payment_Method,Delivery_Type,Delivery_Days,Return_Status,Rating
+F1000,2025-10-13,CUST162,Curtisville,Maine,Fashion,Men Clothing,Series,36289,3,24,Debit Card,Standard,4,No,1
+F1001,2025-08-21,CUST329,Port Aprilchester,Georgia,Home,Kitchen,Activity,58455,2,26,EMI,Standard,7,Yes,1
+F1002,2025-12-13,CUST521,Matthewmouth,Maryland,Grocery,Beverages,Store,58143,5,27,COD,Standard,7,Yes,3
+F1003,2026-01-06,CUST303,South Mollyland,Kansas,Electronics,Laptop,Style,28306,2,12,COD,Express,2,No,1
+F1004,2025-10-30,CUST541,Lake Justin,Oregon,Grocery,Snacks,Per,53783,4,29,EMI,Express,5,No,1
+F1005,2025-10-14,CUST542,East Breannastad,New Hampshire,Beauty,Makeup,Happen,38756,5,29,EMI,Standard,7,Yes,2
+F1006,2025-09-24,CUST874,Erikaview,Indiana,Fashion,Women Clothing,Why,48569,2,23,EMI,Express,3,Yes,5
+F1007,2025-08-21,CUST451,Mckinneyborough,Idaho,Home,Furniture,Performance,13968,3,5,COD,Express,7,Yes,1
+F1008,2026-01-30,CUST623,Hobbshaven,Tennessee,Beauty,Skincare,Finally,6830,1,22,EMI,Standard,5,No,5
+F1009,2025-11-23,CUST372,Williamsborough,Vermont,Fashion,Women Clothing,Size,14519,1,13,Credit Card,Standard,4,No,5
+F1010,2025-09-13,CUST404,Lake Grant,Missouri,Beauty,Makeup,Mean,58485,1,20,UPI,Express,2,Yes,1
+F1011,2026-01-02,CUST717,Andrewshire,Alaska,Fashion,Men Clothing,Maintain,48846,4,29,Debit Card,Standard,4,Yes,3
+F1012,2025-12-14,CUST795,North Thomasside,Washington,Fashion,Women Clothing,Actually,19205,3,16,Debit Card,Express,4,No,4
+F1013,2025-10-30,CUST262,Port Angelaside,Michigan,Beauty,Skincare,Board,21051,1,23,COD,Express,4,Yes,5
+F1014,2025-10-09,CUST226,Murrayburgh,Wisconsin,Electronics,Accessories,Final,14361,3,21,Credit Card,Express,6,Yes,3
+F1015,2025-09-01,CUST145,Bakermouth,Hawaii,Fashion,Women Clothing,Week,17029,2,7,UPI,Express,6,Yes,3
+F1016,2025-09-23,CUST111,South Angela,Georgia,Electronics,Mobile,Go,34699,3,16,Debit Card,Express,5,Yes,1
+F1017,2025-11-26,CUST717,East Denise,Oregon,Beauty,Skincare,Describe,58399,2,23,UPI,Standard,4,Yes,5
+F1018,2025-12-20,CUST506,Colemanborough,Virginia,Fashion,Men Clothing,Response,50664,2,6,Credit Card,Standard,4,No,5
+F1019,2025-11-26,CUST359,New Kiarastad,Nevada,Fashion,Women Clothing,Either,4563,3,18,Credit Card,Express,2,No,3
+F1020,2026-02-03,CUST301,Lake Jose,Arizona,Grocery,Snacks,Chair,9442,5,26,Debit Card,Standard,6,Yes,2
+F1021,2025-12-20,CUST853,Karenburgh,Indiana,Electronics,Mobile,Year,56176,4,14,Debit Card,Standard,6,No,4
+F1022,2025-10-02,CUST270,Lake Judyton,Florida,Beauty,Makeup,Professional,43633,2,16,EMI,Express,2,No,3
+F1023,2025-09-21,CUST689,Daviston,Illinois,Electronics,Accessories,Successful,14460,1,24,Credit Card,Express,5,Yes,4
+F1024,2025-09-11,CUST992,Jodiport,Texas,Beauty,Makeup,Particularly,49149,3,30,COD,Standard,2,No,1
+F1025,2025-09-01,CUST399,Grantchester,Washington,Electronics,Mobile,Surface,25309,1,22,Debit Card,Express,3,No,4
+F1026,2025-09-30,CUST804,West Alecfort,Illinois,Beauty,Makeup,Car,48500,2,21,Debit Card,Express,6,Yes,3
+F1027,2025-11-05,CUST106,South Karla,Georgia,Grocery,Snacks,Amount,43710,4,12,UPI,Express,7,No,2
+F1028,2026-01-04,CUST764,Port Stacey,Alaska,Home,Kitchen,Give,33877,3,9,EMI,Express,3,No,1
+F1029,2025-09-10,CUST790,East Justinfurt,Maine,Home,Kitchen,Their,53515,2,15,UPI,Express,5,Yes,1
+F1030,2025-11-08,CUST840,East Davidton,West Virginia,Fashion,Men Clothing,Inside,45382,5,14,EMI,Express,6,Yes,4
+F1031,2025-09-16,CUST847,Ashleymouth,Idaho,Electronics,Laptop,Area,42099,4,8,Debit Card,Express,5,No,3
+F1032,2025-09-23,CUST618,Darlenefort,Arkansas,Beauty,Skincare,Marriage,55690,2,18,UPI,Standard,7,Yes,5
+F1033,2025-12-24,CUST618,North Brooketown,Pennsylvania,Electronics,Accessories,Question,25024,4,25,EMI,Standard,6,Yes,3
+F1034,2026-02-06,CUST759,Lake Erika,Wisconsin,Electronics,Laptop,System,41495,3,21,UPI,Standard,3,Yes,1
+F1035,2026-01-15,CUST349,Lake Jeffrey,Texas,Home,Furniture,Scene,58851,4,21,COD,Express,7,No,4
+F1036,2025-09-04,CUST798,Gallowayside,Vermont,Fashion,Women Clothing,Human,7971,5,30,Credit Card,Standard,3,Yes,1
+F1037,2026-01-06,CUST116,Sanchezhaven,Nevada,Home,Kitchen,Lay,51211,3,9,Credit Card,Standard,2,Yes,4
+F1038,2025-11-06,CUST157,Kyleland,Washington,Beauty,Skincare,Couple,42159,5,21,Debit Card,Standard,5,No,4
+F1039,2025-09-13,CUST859,South Bryanshire,Montana,Electronics,Mobile,Not,44872,2,22,EMI,Express,3,Yes,5
+F1040,2025-09-02,CUST191,Royville,Michigan,Grocery,Beverages,Before,10090,1,23,EMI,Standard,3,Yes,5
+F1041,2025-11-30,CUST733,West Steven,Wyoming,Fashion,Men Clothing,Idea,19763,3,25,UPI,Standard,5,No,1
+F1042,2025-08-21,CUST475,New Andrew,Hawaii,Electronics,Laptop,Threat,55325,5,27,EMI,Express,3,No,5
+F1043,2025-08-30,CUST243,West Jeremy,Nevada,Electronics,Mobile,Court,47816,4,12,COD,Express,2,No,5
+F1044,2025-10-15,CUST277,South Ryanburgh,Iowa,Grocery,Beverages,Late,22924,1,19,Credit Card,Express,7,No,1
+F1045,2025-09-01,CUST953,Smithtown,New Jersey,Home,Kitchen,Industry,42830,1,26,COD,Express,7,Yes,3
+F1046,2026-02-08,CUST734,Port Raymondborough,Kansas,Electronics,Accessories,Property,46857,1,19,Debit Card,Standard,3,Yes,5
+F1047,2026-01-06,CUST700,South Kaitlyn,Kansas,Electronics,Accessories,Tax,7163,2,12,UPI,Express,7,No,2
+F1048,2025-09-24,CUST124,Port Angela,South Carolina,Grocery,Beverages,Represent,55893,4,11,Debit Card,Standard,6,No,3
+F1049,2025-12-22,CUST345,Angelahaven,Montana,Beauty,Makeup,Owner,46170,3,27,UPI,Standard,4,Yes,5
+F1050,2025-09-18,CUST158,Jonesfort,Louisiana,Beauty,Skincare,Size,41901,5,10,Debit Card,Standard,3,Yes,3
+F1051,2026-01-10,CUST136,Sanfordview,Colorado,Fashion,Men Clothing,Government,6837,3,30,UPI,Standard,7,No,5
+F1052,2025-11-18,CUST545,Levineton,Florida,Home,Kitchen,Church,31850,5,9,EMI,Standard,5,Yes,4
+F1053,2025-10-06,CUST736,Franklinshire,Utah,Home,Kitchen,Know,24945,5,7,Credit Card,Standard,5,No,5
+F1054,2026-02-03,CUST990,Port Kelly,Oklahoma,Fashion,Women Clothing,Others,12155,4,9,Debit Card,Standard,4,Yes,3
+F1055,2025-09-06,CUST996,Port Michelle,Indiana,Beauty,Skincare,Full,53745,3,19,Credit Card,Express,5,Yes,1
+F1056,2025-11-12,CUST212,Cherylport,New Mexico,Grocery,Beverages,May,5744,1,18,UPI,Express,4,Yes,1
+F1057,2026-02-14,CUST211,South Elizabeth,Virginia,Beauty,Makeup,Item,21185,1,30,EMI,Standard,6,Yes,4
+F1058,2026-01-05,CUST892,West Paige,Vermont,Home,Furniture,Candidate,10709,2,10,UPI,Standard,4,No,2
+F1059,2026-01-09,CUST674,New Tylerview,New Mexico,Electronics,Laptop,Require,15928,3,26,Debit Card,Express,2,Yes,5
+F1060,2025-08-22,CUST898,New Douglasmouth,California,Grocery,Snacks,Production,34808,3,11,EMI,Standard,5,Yes,1
+F1061,2025-11-27,CUST438,North Erica,Michigan,Fashion,Women Clothing,Democrat,10312,1,18,Debit Card,Express,2,No,3
+F1062,2025-08-28,CUST723,Port Troyside,Nevada,Grocery,Beverages,Few,49798,4,15,Debit Card,Standard,3,No,3
+F1063,2026-01-16,CUST556,New Joseph,Ohio,Grocery,Snacks,Life,8290,4,8,UPI,Standard,7,Yes,4
+F1064,2025-10-01,CUST583,North Marvinview,Minnesota,Grocery,Snacks,Effort,21905,5,21,EMI,Standard,2,No,4
+F1065,2026-01-17,CUST462,North Matthew,Connecticut,Home,Kitchen,Administration,8234,2,14,Credit Card,Express,4,No,5
+F1066,2025-09-14,CUST374,Darrenton,Florida,Electronics,Mobile,Strong,43255,3,12,Credit Card,Standard,3,No,3
+F1067,2025-11-05,CUST845,East Hunter,Mississippi,Beauty,Skincare,Suddenly,45843,5,23,EMI,Express,4,No,2
+F1068,2025-09-25,CUST341,Oliviastad,New Hampshire,Home,Kitchen,Question,9553,1,13,UPI,Standard,2,Yes,3
+F1069,2025-11-26,CUST502,Rodriguezburgh,Connecticut,Grocery,Beverages,Offer,16826,1,21,EMI,Standard,4,No,5
+F1070,2025-12-27,CUST835,Jonathanchester,Iowa,Home,Furniture,Member,41707,1,5,EMI,Express,7,Yes,2
+F1071,2025-12-04,CUST390,Jeremymouth,Mississippi,Home,Kitchen,Teach,917,5,28,UPI,Express,7,No,1
+F1072,2026-01-12,CUST623,Jamiefurt,Massachusetts,Home,Furniture,System,14324,4,14,UPI,Standard,2,No,5
+F1073,2025-11-11,CUST767,Hillville,New Mexico,Fashion,Women Clothing,Pull,16532,3,29,Debit Card,Standard,6,No,4
+F1074,2025-09-27,CUST815,Lake Melissahaven,Maine,Fashion,Women Clothing,Possible,4667,3,7,COD,Express,3,Yes,4
+F1075,2026-01-27,CUST232,Guerreroshire,Mississippi,Grocery,Beverages,Two,27526,1,19,Credit Card,Express,6,Yes,3
+F1076,2025-09-15,CUST897,East Carrie,Pennsylvania,Grocery,Beverages,Understand,58408,3,30,Debit Card,Express,6,No,3
+F1077,2025-09-04,CUST380,New Jesse,Kansas,Beauty,Skincare,Development,45323,4,5,Credit Card,Express,6,Yes,5
+F1078,2025-09-09,CUST701,West Kennethburgh,Rhode Island,Fashion,Women Clothing,Understand,59988,3,30,EMI,Standard,5,Yes,5
+F1079,2025-11-12,CUST217,West Royland,Maine,Home,Kitchen,Certainly,35198,1,11,EMI,Express,2,No,4
+F1080,2025-11-08,CUST676,New Jamesmouth,Delaware,Home,Kitchen,Local,34640,4,25,UPI,Standard,3,No,3
+F1081,2026-02-06,CUST175,Webbchester,Colorado,Grocery,Beverages,People,42402,5,15,Debit Card,Express,6,No,1
+F1082,2026-02-11,CUST159,East Jonathonhaven,Arkansas,Fashion,Women Clothing,Of,20033,2,27,UPI,Standard,6,No,5
+F1083,2026-01-04,CUST801,North Bradley,Louisiana,Beauty,Makeup,Protect,32904,4,19,COD,Express,7,Yes,1
+F1084,2026-02-06,CUST258,Andrewstad,Nevada,Grocery,Snacks,Him,7572,2,5,Debit Card,Standard,7,Yes,5
+F1085,2025-09-08,CUST591,East Alicialand,North Dakota,Grocery,Beverages,Family,59352,3,7,Credit Card,Express,2,Yes,1
+F1086,2025-11-16,CUST521,Port Katherinemouth,New Mexico,Fashion,Men Clothing,Again,24379,4,14,Debit Card,Express,7,No,1
+F1087,2026-01-30,CUST891,Anneborough,California,Beauty,Skincare,Sense,53475,3,21,Credit Card,Standard,2,No,2
+F1088,2025-11-23,CUST766,Port Gerald,New York,Home,Kitchen,Find,10913,5,22,Debit Card,Express,4,Yes,2
+F1089,2025-10-14,CUST399,Cummingschester,Missouri,Electronics,Laptop,Area,33853,1,26,UPI,Standard,3,No,1
+F1090,2025-10-21,CUST386,Christiantown,Colorado,Beauty,Skincare,Onto,57988,1,13,UPI,Express,5,Yes,4
+F1091,2025-12-09,CUST407,Port Debbieville,Louisiana,Beauty,Makeup,Toward,32321,3,17,EMI,Express,5,No,2
+F1092,2025-10-24,CUST122,New Jeremy,Kansas,Electronics,Laptop,Again,28809,3,24,Debit Card,Express,2,Yes,2
+F1093,2025-09-28,CUST551,Donaldfort,Minnesota,Fashion,Women Clothing,Standard,16060,4,26,UPI,Standard,2,Yes,3
+F1094,2025-11-20,CUST729,Teresatown,Idaho,Home,Kitchen,Lawyer,39519,5,5,EMI,Standard,7,No,3
+F1095,2025-09-03,CUST192,Wilcoxbury,Arizona,Beauty,Skincare,Relationship,31568,1,14,COD,Standard,6,Yes,4
+F1096,2026-01-15,CUST620,Port Samuel,Massachusetts,Beauty,Makeup,Capital,51662,4,5,Debit Card,Standard,2,No,5
+F1097,2025-11-19,CUST478,Ryanberg,South Dakota,Home,Kitchen,Stage,32520,3,20,Debit Card,Standard,6,Yes,1
+F1098,2025-11-23,CUST407,Schmidtshire,Oregon,Electronics,Accessories,General,7019,5,16,COD,Express,6,No,4
+F1099,2025-11-17,CUST441,West Steven,Delaware,Home,Furniture,Family,8977,2,7,Debit Card,Express,5,Yes,2
+F1100,2025-11-25,CUST502,Wheelertown,Arizona,Beauty,Makeup,Good,1004,1,17,Debit Card,Express,7,No,2
+F1101,2025-09-26,CUST130,Cortezmouth,Indiana,Grocery,Snacks,Boy,12568,4,25,COD,Standard,7,No,1
+F1102,2025-10-10,CUST234,West Ricardo,Vermont,Fashion,Men Clothing,Old,2873,2,15,Debit Card,Standard,6,No,2
+F1103,2025-10-07,CUST415,Byrdborough,Alabama,Electronics,Mobile,Couple,30199,1,28,EMI,Express,6,No,1
+F1104,2025-12-29,CUST919,Dillonfurt,Ohio,Home,Furniture,Name,51761,2,9,EMI,Standard,2,No,5
+F1105,2026-01-23,CUST778,Port Lindatown,Washington,Electronics,Mobile,Head,5338,4,19,Debit Card,Standard,6,Yes,1
+F1106,2025-12-24,CUST596,Port Elizabethhaven,Texas,Grocery,Snacks,Instead,13689,4,7,COD,Standard,2,Yes,4
+F1107,2025-09-09,CUST611,Lake Kelly,Utah,Fashion,Women Clothing,Capital,39412,3,27,UPI,Express,2,Yes,2
+F1108,2025-09-15,CUST741,Brianberg,New Hampshire,Home,Furniture,Morning,25713,2,26,COD,Standard,7,No,5
+F1109,2025-09-27,CUST120,Ingramland,Indiana,Home,Kitchen,Friend,58843,1,14,Credit Card,Express,4,No,4
+F1110,2026-02-06,CUST558,Griffinshire,Texas,Electronics,Mobile,Determine,6969,4,16,Debit Card,Express,5,Yes,3
+F1111,2025-12-16,CUST913,North Sara,Florida,Grocery,Snacks,Land,22186,3,30,Debit Card,Standard,4,Yes,5
+F1112,2025-12-31,CUST934,Jessicashire,Hawaii,Electronics,Laptop,Despite,15487,5,23,UPI,Express,6,Yes,1
+F1113,2025-11-12,CUST593,West Jesus,North Dakota,Electronics,Accessories,Evidence,58728,1,19,Debit Card,Express,7,No,5
+F1114,2025-09-10,CUST578,Matthewville,North Carolina,Grocery,Snacks,Feeling,27581,4,21,UPI,Express,4,Yes,5
+F1115,2025-12-30,CUST580,Laurachester,Iowa,Home,Kitchen,Quality,36529,5,12,COD,Standard,2,No,2
+F1116,2025-10-18,CUST242,Port Debbiestad,Indiana,Electronics,Mobile,Food,39574,3,29,Credit Card,Standard,4,Yes,1
+F1117,2025-10-13,CUST372,West Robert,Kentucky,Beauty,Makeup,Decide,6861,1,13,EMI,Standard,7,Yes,1
+F1118,2025-10-30,CUST195,Hallborough,South Carolina,Beauty,Makeup,Physical,41293,1,16,UPI,Standard,4,No,1
+F1119,2025-09-20,CUST293,Bridgeshaven,Wisconsin,Home,Kitchen,Safe,36180,5,19,EMI,Standard,6,Yes,1
+F1120,2025-12-24,CUST414,Farrellfurt,New Hampshire,Fashion,Women Clothing,Draw,8437,4,6,Debit Card,Express,2,Yes,2
+F1121,2025-12-16,CUST560,Port Mary,Rhode Island,Grocery,Snacks,Off,6613,5,13,Debit Card,Standard,4,No,1
+F1122,2025-09-17,CUST708,Brownberg,Washington,Electronics,Laptop,Such,52841,5,8,Debit Card,Standard,3,No,1
+F1123,2025-08-22,CUST904,East Dave,Kentucky,Fashion,Women Clothing,Across,13202,3,18,COD,Standard,2,No,4
+F1124,2026-01-18,CUST535,Campbellport,Virginia,Grocery,Beverages,Onto,15127,5,11,Debit Card,Express,7,No,1
+F1125,2026-02-11,CUST995,South Erikaview,Iowa,Electronics,Mobile,Democratic,2898,3,24,EMI,Express,7,Yes,3
+F1126,2026-01-31,CUST116,North Steventown,Maine,Electronics,Accessories,Game,30135,4,22,COD,Express,2,No,5
+F1127,2025-12-14,CUST937,Robinsonville,Hawaii,Home,Kitchen,Risk,51269,2,10,Debit Card,Express,4,No,4
+F1128,2025-11-24,CUST296,Danielside,Delaware,Beauty,Makeup,Wonder,21112,3,30,UPI,Standard,3,Yes,2
+F1129,2025-11-22,CUST471,Henrymouth,Montana,Home,Kitchen,Factor,43646,2,13,EMI,Express,7,Yes,1
+F1130,2026-02-07,CUST991,Conleyland,Pennsylvania,Grocery,Beverages,Through,37518,5,28,COD,Standard,2,No,5
+F1131,2025-11-20,CUST527,Johnsonhaven,Massachusetts,Beauty,Skincare,Teach,12493,3,5,Credit Card,Express,5,Yes,3
+F1132,2025-12-15,CUST704,Jackchester,Arizona,Home,Furniture,Republican,2594,4,5,Credit Card,Standard,4,No,1
+F1133,2026-02-10,CUST746,Blakefurt,Maryland,Fashion,Women Clothing,This,8878,5,11,Credit Card,Express,6,No,5
+F1134,2025-09-10,CUST404,East Donald,Kansas,Electronics,Mobile,Your,19130,4,14,EMI,Express,6,No,5
+F1135,2026-02-01,CUST143,North Tyrone,New Jersey,Beauty,Makeup,Free,13232,4,13,EMI,Standard,6,No,4
+F1136,2025-10-08,CUST191,Port Robert,Virginia,Electronics,Mobile,Stand,24067,4,14,COD,Standard,2,No,1
+F1137,2025-08-26,CUST537,Lisafurt,Oklahoma,Electronics,Accessories,Provide,6630,2,26,Credit Card,Express,6,No,3
+F1138,2026-01-22,CUST334,Juliemouth,Utah,Fashion,Women Clothing,Involve,42333,1,26,COD,Express,7,Yes,3
+F1139,2025-12-26,CUST652,Lauriechester,New Mexico,Electronics,Mobile,Outside,11679,1,7,Credit Card,Express,6,No,5
+F1140,2025-10-24,CUST676,South Ernest,Kentucky,Home,Kitchen,Major,16957,3,16,COD,Express,4,No,5
+F1141,2025-09-03,CUST455,Harrisonborough,Oregon,Electronics,Accessories,Small,7754,2,15,Debit Card,Express,4,No,2
+F1142,2025-12-26,CUST987,New Jamieville,Maine,Electronics,Laptop,Short,9432,5,15,COD,Express,6,Yes,2
+F1143,2025-10-30,CUST862,Port Damon,Hawaii,Home,Furniture,Data,16585,2,29,Debit Card,Express,2,No,2
+F1144,2026-01-26,CUST203,Martinland,New Mexico,Home,Kitchen,Deal,59125,5,9,COD,Express,3,Yes,1
+F1145,2025-11-12,CUST710,Jameschester,Ohio,Grocery,Beverages,Continue,2600,2,25,Debit Card,Express,6,No,3
+F1146,2026-02-19,CUST400,Hostad,South Carolina,Electronics,Accessories,Particularly,48982,1,16,UPI,Express,5,No,1
+F1147,2025-10-02,CUST292,New Josetown,Virginia,Beauty,Skincare,Knowledge,55673,2,26,COD,Standard,4,Yes,4
+F1148,2026-02-16,CUST732,North Samanthafurt,Maine,Home,Kitchen,Together,6547,5,19,Credit Card,Standard,6,No,3
+F1149,2026-01-03,CUST244,Beckshire,Montana,Fashion,Men Clothing,Benefit,41376,1,13,EMI,Express,4,No,2
+F1150,2026-01-15,CUST451,East Brian,Ohio,Beauty,Skincare,Trip,8009,3,21,UPI,Express,3,Yes,4
+F1151,2026-01-04,CUST308,Amystad,North Carolina,Beauty,Skincare,Operation,6469,4,15,Credit Card,Standard,6,Yes,3
+F1152,2026-02-11,CUST256,Donnachester,North Dakota,Beauty,Makeup,Final,55965,5,24,Debit Card,Standard,2,Yes,1
+F1153,2025-10-18,CUST213,New Karen,Rhode Island,Grocery,Snacks,Many,32952,4,30,EMI,Express,2,Yes,4
+F1154,2025-10-20,CUST192,Lake Olivia,Pennsylvania,Electronics,Mobile,Quality,55604,2,28,Credit Card,Express,7,Yes,1
+F1155,2025-10-01,CUST465,Geraldton,Maine,Home,Kitchen,Other,58654,2,14,Debit Card,Standard,7,Yes,3
+F1156,2025-12-03,CUST770,Robertport,Kentucky,Grocery,Snacks,Miss,58843,2,13,UPI,Express,3,Yes,5
+F1157,2025-12-09,CUST938,Christinemouth,Maine,Fashion,Women Clothing,Available,37444,5,15,COD,Express,3,No,1
+F1158,2025-10-29,CUST714,Ritafurt,Georgia,Beauty,Makeup,Write,58468,5,30,UPI,Standard,5,No,5
+F1159,2025-09-10,CUST640,Mcdonaldside,Georgia,Fashion,Men Clothing,Attorney,2411,2,30,UPI,Standard,5,No,1
+F1160,2025-10-28,CUST768,East Ginamouth,New Hampshire,Grocery,Beverages,Late,14122,2,28,EMI,Express,7,Yes,4
+F1161,2025-12-02,CUST831,South Taylor,South Carolina,Fashion,Women Clothing,Beyond,29003,4,13,Credit Card,Express,5,Yes,3
+F1162,2026-01-10,CUST580,Lake Tanya,Ohio,Fashion,Men Clothing,Indicate,6720,1,6,COD,Express,6,No,3
+F1163,2025-12-10,CUST448,Tinabury,Rhode Island,Beauty,Skincare,Environment,38009,3,8,Debit Card,Express,5,No,2
+F1164,2025-09-01,CUST921,Port Catherine,New Jersey,Grocery,Beverages,Morning,29812,1,8,Credit Card,Express,4,Yes,2
+F1165,2025-12-10,CUST517,Medinaberg,Virginia,Fashion,Women Clothing,Significant,23028,1,6,Debit Card,Standard,7,No,5
+F1166,2025-09-02,CUST233,Jesusshire,Colorado,Fashion,Men Clothing,Miss,23183,3,19,Credit Card,Standard,7,Yes,2
+F1167,2025-12-16,CUST908,North John,Nevada,Home,Kitchen,Role,31754,5,6,COD,Standard,6,No,2
+F1168,2026-01-17,CUST496,New Alyssa,Wyoming,Fashion,Men Clothing,Wait,32386,1,13,Debit Card,Express,6,No,4
+F1169,2025-09-18,CUST104,Barajastown,New York,Beauty,Skincare,Once,21463,2,16,Debit Card,Standard,2,Yes,5
+F1170,2025-11-18,CUST170,Brendachester,Kansas,Fashion,Men Clothing,Ok,49911,4,30,Debit Card,Express,6,Yes,4
+F1171,2025-12-18,CUST846,Port Samuel,North Carolina,Grocery,Snacks,Modern,56468,2,12,Debit Card,Standard,7,No,1
+F1172,2026-01-06,CUST763,Cherylside,California,Grocery,Beverages,Leader,58181,3,13,EMI,Standard,5,Yes,5
+F1173,2025-09-20,CUST891,Lake Austinstad,Florida,Grocery,Beverages,Think,40107,2,13,COD,Express,6,Yes,2
+F1174,2026-02-07,CUST306,East Monicaburgh,Maryland,Grocery,Beverages,News,37243,5,8,Debit Card,Standard,4,No,4
+F1175,2025-10-03,CUST963,Lake Toddborough,Connecticut,Fashion,Women Clothing,Probably,50445,2,25,Debit Card,Express,5,No,5
+F1176,2025-12-13,CUST695,New Cherylshire,Texas,Beauty,Skincare,Challenge,3179,3,11,Credit Card,Express,3,No,2
+F1177,2026-01-07,CUST765,North Ericaborough,South Dakota,Home,Furniture,Future,36849,3,5,Credit Card,Standard,6,No,2
+F1178,2026-02-08,CUST160,Stephenmouth,Missouri,Beauty,Makeup,Customer,14570,2,30,Debit Card,Standard,2,No,3
+F1179,2025-10-30,CUST274,Robertland,Maryland,Home,Kitchen,Rich,52010,4,8,UPI,Express,3,No,1
+F1180,2026-01-13,CUST330,Masonburgh,Maine,Home,Furniture,President,39165,1,24,Credit Card,Express,7,No,5
+F1181,2025-10-13,CUST897,Lake Katrina,New Jersey,Home,Furniture,Long,42029,3,22,Debit Card,Express,7,No,1
+F1182,2026-02-02,CUST100,South Justinchester,Connecticut,Fashion,Women Clothing,Citizen,14246,3,19,Debit Card,Express,7,No,2
+F1183,2025-12-24,CUST179,New Diana,Connecticut,Fashion,Men Clothing,New,1068,4,13,Debit Card,Standard,2,No,5
+F1184,2025-11-30,CUST829,East Barbara,North Carolina,Fashion,Men Clothing,Past,13008,4,16,Credit Card,Standard,7,No,5
+F1185,2025-10-20,CUST490,Port Kevin,Maine,Beauty,Skincare,Operation,34048,3,17,COD,Standard,4,No,4
+F1186,2026-01-24,CUST785,South Meredithburgh,Missouri,Home,Kitchen,Family,33289,5,10,COD,Standard,3,No,5
+F1187,2026-02-07,CUST154,East Nicoleburgh,Iowa,Beauty,Makeup,Article,26946,1,17,EMI,Standard,2,Yes,4
+F1188,2026-02-11,CUST314,Brandonmouth,Utah,Beauty,Makeup,Citizen,43585,3,8,EMI,Standard,4,Yes,5
+F1189,2025-10-31,CUST894,West Robertport,Washington,Fashion,Men Clothing,Serve,16803,2,28,COD,Express,3,Yes,2
+F1190,2026-01-01,CUST621,Nelsonfort,South Dakota,Electronics,Accessories,Give,55327,4,16,EMI,Standard,2,Yes,3
+F1191,2025-10-14,CUST449,Lake Alexander,Rhode Island,Home,Kitchen,Ready,22483,1,30,EMI,Express,4,No,4
+F1192,2026-02-15,CUST191,Port Jordan,Colorado,Grocery,Beverages,Region,31919,2,17,EMI,Standard,7,Yes,1
+F1193,2025-09-04,CUST315,South Jeremymouth,Tennessee,Electronics,Mobile,Environment,11816,4,20,UPI,Standard,2,No,1
+F1194,2025-09-06,CUST604,West Jamesshire,Alabama,Grocery,Snacks,Fight,59455,5,6,COD,Standard,4,Yes,1
+F1195,2025-10-22,CUST105,South Davidland,Nevada,Beauty,Skincare,Food,25037,2,6,EMI,Standard,4,Yes,3
+F1196,2025-11-06,CUST763,Odomland,Michigan,Fashion,Men Clothing,Easy,7583,1,11,COD,Standard,6,Yes,3
+F1197,2025-11-09,CUST410,North Nina,Missouri,Home,Kitchen,Thing,6770,5,7,COD,Standard,4,No,5
+F1198,2026-02-18,CUST437,Lake Sandraville,Oklahoma,Electronics,Accessories,Call,53781,3,9,Credit Card,Standard,2,Yes,3
+F1199,2025-11-28,CUST340,Christinehaven,Tennessee,Grocery,Snacks,Strategy,31382,2,8,COD,Standard,6,Yes,4
+F1200,2025-11-05,CUST824,South Gregory,West Virginia,Grocery,Beverages,Apply,38170,5,26,Credit Card,Express,4,Yes,2
+F1201,2026-01-16,CUST383,East Rachelfurt,West Virginia,Home,Furniture,Outside,33771,2,28,Credit Card,Express,4,No,3
+F1202,2025-11-06,CUST332,Williamport,Florida,Beauty,Makeup,Near,34295,2,30,EMI,Standard,6,Yes,2
+F1203,2026-02-11,CUST744,Porterberg,Wyoming,Fashion,Women Clothing,Soldier,27863,1,15,EMI,Express,6,No,3
+F1204,2025-09-18,CUST610,Danbury,Wyoming,Grocery,Snacks,Despite,40225,1,9,Debit Card,Standard,5,Yes,3
+F1205,2025-10-09,CUST530,New Joshua,Pennsylvania,Electronics,Mobile,Read,56078,1,29,Debit Card,Express,5,No,3
+F1206,2025-10-21,CUST209,Hawkinsmouth,North Dakota,Beauty,Makeup,Change,27092,2,20,EMI,Standard,7,Yes,2
+F1207,2026-02-05,CUST289,Davidchester,Missouri,Electronics,Mobile,Hair,56199,5,12,EMI,Standard,7,No,3
+F1208,2026-02-04,CUST996,West Ricardostad,Texas,Electronics,Laptop,Look,40190,2,23,UPI,Standard,2,Yes,5
+F1209,2025-08-25,CUST732,North Jenna,North Dakota,Fashion,Men Clothing,Sort,2788,4,21,Debit Card,Express,5,No,4
+F1210,2025-11-24,CUST225,Martinberg,Pennsylvania,Home,Furniture,Energy,28289,2,30,UPI,Standard,3,No,5
+F1211,2026-02-02,CUST380,Davidstad,Virginia,Home,Furniture,Sign,36682,3,18,UPI,Express,6,No,2
+F1212,2025-11-17,CUST156,Maysmouth,Washington,Beauty,Makeup,Structure,16365,4,14,EMI,Express,4,No,3
+F1213,2026-01-09,CUST738,Lake Catherinestad,Kentucky,Home,Kitchen,Human,59734,5,28,Credit Card,Express,2,Yes,4
+F1214,2025-10-01,CUST673,Port Hannah,Colorado,Beauty,Makeup,School,30630,1,18,EMI,Standard,5,No,3
+F1215,2025-09-05,CUST759,Gregoryburgh,Wisconsin,Fashion,Men Clothing,Us,1860,2,9,COD,Express,7,Yes,1
+F1216,2025-09-07,CUST320,Fullerstad,North Dakota,Grocery,Beverages,Change,17921,1,22,COD,Express,3,Yes,3
+F1217,2025-12-17,CUST253,South Faithview,Indiana,Grocery,Beverages,Them,732,5,29,Credit Card,Standard,6,No,3
+F1218,2025-10-10,CUST576,New Cameronburgh,Maine,Fashion,Men Clothing,Top,52797,5,23,UPI,Standard,3,Yes,4
+F1219,2026-01-15,CUST948,Lake Thomas,Louisiana,Electronics,Mobile,Always,33916,2,29,COD,Express,4,No,5
+F1220,2025-12-31,CUST799,East Elizabethberg,Vermont,Fashion,Men Clothing,Art,15272,1,28,COD,Standard,4,Yes,5
+F1221,2026-02-09,CUST121,Karlamouth,Wisconsin,Grocery,Snacks,Key,15047,2,29,EMI,Express,6,Yes,4
+F1222,2026-01-18,CUST561,Daviston,Texas,Grocery,Snacks,International,10121,5,27,Credit Card,Express,5,No,2
+F1223,2026-02-08,CUST195,Evanview,Vermont,Electronics,Mobile,Do,34281,4,8,EMI,Express,6,No,4
+F1224,2025-10-06,CUST305,Gregorybury,New Mexico,Home,Furniture,Form,26353,5,26,UPI,Express,3,Yes,2
+F1225,2025-08-27,CUST245,East Alanchester,Oregon,Fashion,Women Clothing,Drive,26818,3,12,Credit Card,Express,7,No,3
+F1226,2025-12-08,CUST647,Robertsside,Nevada,Electronics,Accessories,Meet,24423,1,20,COD,Express,2,Yes,2
+F1227,2026-01-08,CUST166,New Daniel,New Jersey,Grocery,Snacks,Everything,41139,4,16,Credit Card,Standard,7,Yes,5
+F1228,2025-09-18,CUST151,Lake Tonyaborough,Pennsylvania,Fashion,Women Clothing,Whether,11166,1,13,COD,Standard,6,Yes,5
+F1229,2025-12-18,CUST549,Alyssaville,Texas,Beauty,Makeup,Remember,817,2,6,Credit Card,Standard,2,Yes,5
+F1230,2025-12-17,CUST118,South Hannahville,Vermont,Grocery,Snacks,Say,27913,2,22,COD,Express,5,No,3
+F1231,2025-09-29,CUST204,Coxbury,New Hampshire,Beauty,Makeup,Hair,21783,3,26,Debit Card,Standard,5,Yes,1
+F1232,2025-10-06,CUST311,Austinmouth,Alaska,Electronics,Accessories,Chair,43020,2,7,EMI,Standard,5,No,5
+F1233,2025-10-25,CUST297,North Mark,Washington,Grocery,Beverages,Decision,49946,4,16,COD,Standard,5,No,2
+F1234,2025-10-30,CUST463,North Carmenshire,Kentucky,Beauty,Skincare,Organization,50993,3,12,UPI,Express,6,Yes,1
+F1235,2025-12-15,CUST167,North Lisa,Michigan,Electronics,Accessories,Car,40648,5,9,EMI,Standard,4,No,1
+F1236,2025-10-15,CUST874,Port Richardstad,South Carolina,Electronics,Laptop,Before,18827,2,22,Credit Card,Express,5,Yes,5
+F1237,2025-08-23,CUST331,Davidsonburgh,Louisiana,Fashion,Women Clothing,Matter,29746,3,5,Debit Card,Standard,4,Yes,3
+F1238,2025-12-31,CUST827,West Katherinefurt,Delaware,Beauty,Makeup,Practice,25702,4,29,UPI,Standard,4,No,4
+F1239,2025-11-25,CUST764,Fernandezfurt,Indiana,Grocery,Snacks,Ago,50177,2,28,Debit Card,Standard,4,Yes,1
+F1240,2025-11-03,CUST718,Hickmanton,Kentucky,Grocery,Snacks,Establish,34171,1,26,Debit Card,Standard,4,Yes,2
+F1241,2025-11-22,CUST980,Dylanberg,Missouri,Electronics,Mobile,Require,31254,1,23,UPI,Express,2,Yes,4
+F1242,2025-09-27,CUST606,Michelleside,Florida,Fashion,Men Clothing,Detail,3744,3,30,Debit Card,Express,4,No,2
+F1243,2025-10-13,CUST740,Jessicamouth,Louisiana,Grocery,Beverages,Scene,59858,5,24,COD,Express,2,Yes,3
+F1244,2025-11-07,CUST947,Dawnstad,Iowa,Home,Furniture,Language,25481,3,6,Credit Card,Express,6,Yes,3
+F1245,2025-10-14,CUST730,South Kristentown,Virginia,Beauty,Skincare,Similar,54675,1,5,COD,Express,3,No,1
+F1246,2025-12-12,CUST620,Port Sarahchester,Kansas,Home,Furniture,Chance,497,5,25,UPI,Express,2,Yes,1
+F1247,2025-11-03,CUST512,Feliciatown,Louisiana,Fashion,Women Clothing,Nothing,8268,3,22,Debit Card,Express,5,Yes,2
+F1248,2026-01-06,CUST527,East Samuelberg,Idaho,Home,Furniture,With,25889,2,16,UPI,Standard,7,No,2
+F1249,2025-11-18,CUST742,North Elizabethville,Maryland,Electronics,Laptop,Author,8856,3,18,EMI,Standard,3,No,5
+F1250,2025-11-14,CUST656,Gregorymouth,New Hampshire,Fashion,Women Clothing,Chair,20931,4,25,COD,Standard,4,Yes,2
+F1251,2025-11-10,CUST407,East Roberttown,Arizona,Fashion,Men Clothing,Marriage,4443,2,12,UPI,Express,6,Yes,5
+F1252,2026-01-24,CUST137,Ianshire,New Mexico,Electronics,Laptop,Action,47724,4,26,UPI,Standard,3,No,3
+F1253,2025-10-30,CUST935,East Leonardview,Nebraska,Home,Kitchen,Clear,34450,3,21,UPI,Express,4,Yes,2
+F1254,2026-02-06,CUST948,South Jenna,Maryland,Beauty,Makeup,Process,1890,4,9,Debit Card,Standard,3,Yes,4
+F1255,2025-09-04,CUST229,North Andreahaven,Arkansas,Grocery,Beverages,Move,47826,2,17,Credit Card,Standard,6,No,2
+F1256,2025-10-22,CUST335,Port Maryburgh,Tennessee,Fashion,Men Clothing,Writer,44096,4,23,EMI,Express,3,Yes,3
+F1257,2025-10-03,CUST498,Shawntown,Rhode Island,Beauty,Makeup,Already,23877,4,23,UPI,Standard,3,Yes,3
+F1258,2025-10-23,CUST908,Harrisstad,Vermont,Home,Kitchen,Field,4868,3,16,Debit Card,Express,2,No,2
+F1259,2025-12-19,CUST396,Burchmouth,California,Grocery,Beverages,Itself,1214,1,18,Credit Card,Express,6,Yes,3
+F1260,2026-02-04,CUST320,Howardview,Kansas,Fashion,Men Clothing,Professional,40867,2,25,Credit Card,Express,6,Yes,2
+F1261,2026-02-12,CUST173,Stanleymouth,Minnesota,Electronics,Mobile,Rate,26497,2,12,Debit Card,Express,7,Yes,3
+F1262,2025-12-12,CUST956,Powersmouth,California,Electronics,Laptop,Grow,24703,5,16,Credit Card,Standard,2,No,3
+F1263,2025-10-04,CUST122,Buckburgh,North Carolina,Beauty,Makeup,Minute,45034,5,5,UPI,Express,7,No,3
+F1264,2026-02-12,CUST508,New Williamside,Vermont,Home,Furniture,During,56421,2,16,UPI,Express,7,No,5
+F1265,2025-10-17,CUST969,Bergerville,Kentucky,Electronics,Laptop,What,11508,2,15,UPI,Standard,4,Yes,5
+F1266,2026-01-06,CUST486,New Erintown,New Mexico,Fashion,Men Clothing,Television,6859,4,11,COD,Standard,4,No,1
+F1267,2025-10-15,CUST854,West Susan,Alabama,Beauty,Skincare,Mention,54331,1,6,EMI,Express,2,No,4
+F1268,2026-01-16,CUST801,West Taylorland,South Carolina,Electronics,Mobile,Wind,56380,2,12,Credit Card,Express,5,Yes,1
+F1269,2025-12-17,CUST631,Lake Meaganview,Wisconsin,Beauty,Skincare,Best,11673,4,9,Credit Card,Standard,5,No,4
+F1270,2025-11-01,CUST797,Grayside,Indiana,Home,Kitchen,Easy,1646,1,12,EMI,Standard,4,No,2
+F1271,2025-11-11,CUST223,Grahamville,Wyoming,Fashion,Men Clothing,Positive,11546,5,16,UPI,Standard,5,No,3
+F1272,2026-01-04,CUST812,East Karen,Virginia,Electronics,Accessories,Bank,6428,2,10,EMI,Standard,6,No,5
+F1273,2025-09-26,CUST427,New Evanville,Tennessee,Electronics,Laptop,Quality,51355,4,14,EMI,Standard,3,Yes,4
+F1274,2025-10-27,CUST980,West Amyville,Alabama,Electronics,Mobile,Others,1080,1,11,Debit Card,Express,4,No,2
+F1275,2026-01-04,CUST218,South Barbara,Oregon,Grocery,Snacks,Fill,25773,2,13,UPI,Standard,2,No,3
+F1276,2025-10-14,CUST778,Burketown,Kentucky,Electronics,Accessories,Somebody,57618,4,21,COD,Standard,2,No,4
+F1277,2025-11-30,CUST545,Kaitlyntown,Florida,Beauty,Makeup,Fund,43039,1,21,Debit Card,Express,4,No,4
+F1278,2025-12-08,CUST901,Lisaburgh,Montana,Home,Kitchen,Beyond,41258,3,18,UPI,Standard,6,Yes,4
+F1279,2025-09-06,CUST757,Christophermouth,West Virginia,Home,Kitchen,Important,15287,3,22,EMI,Standard,2,Yes,2
+F1280,2025-11-24,CUST457,Matthewport,Rhode Island,Electronics,Laptop,Writer,43988,4,29,EMI,Standard,3,No,1
+F1281,2026-01-24,CUST776,Waynebury,Florida,Beauty,Makeup,Change,49613,3,18,EMI,Express,5,No,5
+F1282,2026-01-09,CUST873,Davisberg,Oregon,Grocery,Snacks,Line,30618,3,29,UPI,Express,7,No,1
+F1283,2025-10-07,CUST846,Lake Angelastad,Iowa,Home,Furniture,Late,36179,5,11,COD,Express,6,No,3
+F1284,2025-09-17,CUST666,Tiffanystad,Delaware,Home,Furniture,Tv,44133,5,29,Credit Card,Express,4,No,1
+F1285,2025-10-20,CUST373,Lake Tyroneberg,Georgia,Electronics,Mobile,Yeah,50797,4,23,Debit Card,Express,7,No,2
+F1286,2026-01-28,CUST804,Port Laurie,New Jersey,Electronics,Accessories,Computer,13701,5,6,UPI,Express,5,Yes,2
+F1287,2025-12-18,CUST551,Justinmouth,Maryland,Fashion,Men Clothing,Include,6270,2,21,Credit Card,Standard,6,Yes,5
+F1288,2025-12-14,CUST229,Lewiston,Wisconsin,Fashion,Men Clothing,Argue,42631,2,20,COD,Express,5,No,2
+F1289,2025-09-18,CUST576,Danielchester,Minnesota,Grocery,Snacks,Call,28141,2,27,UPI,Standard,3,Yes,5
+F1290,2026-02-17,CUST816,Castroside,Louisiana,Beauty,Skincare,Worker,8306,3,15,EMI,Standard,7,Yes,1
+F1291,2026-01-04,CUST616,Amberview,Oregon,Electronics,Mobile,Certain,54561,5,25,UPI,Standard,6,Yes,5
+F1292,2026-01-08,CUST330,Boonechester,Delaware,Electronics,Accessories,Single,15558,5,22,COD,Express,3,Yes,5
+F1293,2025-10-26,CUST911,Kevinfurt,North Dakota,Grocery,Beverages,Off,25583,4,25,Debit Card,Standard,7,No,1
+F1294,2025-12-28,CUST771,Higginsview,Minnesota,Beauty,Skincare,Shoulder,57241,3,5,EMI,Standard,5,No,3
+F1295,2025-10-22,CUST759,North Deannamouth,Nevada,Home,Furniture,Turn,51941,2,14,Credit Card,Express,3,No,1
+F1296,2025-08-27,CUST852,Annashire,Idaho,Home,Kitchen,Improve,11557,3,18,UPI,Standard,2,Yes,3
+F1297,2026-02-08,CUST499,East Daniel,California,Grocery,Beverages,Budget,7782,1,15,Debit Card,Express,6,Yes,3
+F1298,2025-09-02,CUST267,Port Anna,Michigan,Grocery,Snacks,Child,50938,1,30,Debit Card,Standard,5,No,3
+F1299,2025-12-07,CUST463,Alyssamouth,Maryland,Fashion,Women Clothing,Degree,44954,5,13,Debit Card,Standard,6,Yes,2
+F1300,2025-08-23,CUST717,Esparzahaven,Wisconsin,Home,Kitchen,Concern,46797,5,6,Debit Card,Express,5,No,2
+F1301,2025-11-12,CUST145,Port Marialand,New York,Electronics,Accessories,Song,11585,5,26,COD,Standard,4,Yes,2
+F1302,2025-12-25,CUST611,New Charles,Nebraska,Electronics,Accessories,Customer,34904,5,8,EMI,Express,3,No,3
+F1303,2025-11-04,CUST925,Gardnerhaven,Maine,Grocery,Beverages,Room,34715,5,7,UPI,Standard,7,No,2
+F1304,2025-10-18,CUST922,Jacobchester,New Mexico,Beauty,Skincare,Laugh,29287,1,17,COD,Express,3,No,5
+F1305,2025-10-25,CUST906,Lopezside,Pennsylvania,Beauty,Makeup,Main,51315,4,9,EMI,Express,3,Yes,2
+F1306,2025-10-12,CUST869,South Randy,Wisconsin,Electronics,Accessories,Still,7590,2,28,EMI,Express,7,Yes,2
+F1307,2025-11-25,CUST826,Jenniferborough,North Carolina,Grocery,Snacks,Agree,56379,2,8,Credit Card,Standard,4,Yes,4
+F1308,2025-10-03,CUST695,New Barbara,Michigan,Home,Furniture,Cultural,7047,5,14,COD,Standard,5,No,4
+F1309,2025-11-25,CUST750,Robertmouth,Alabama,Grocery,Beverages,Born,40385,5,8,Credit Card,Express,7,No,5
+F1310,2026-01-04,CUST816,Scottton,Alaska,Electronics,Accessories,Spend,20711,1,13,UPI,Standard,5,Yes,5
+F1311,2025-09-20,CUST488,Kington,Maine,Electronics,Laptop,Part,24332,5,17,UPI,Express,7,Yes,1
+F1312,2025-11-23,CUST614,Port James,Ohio,Home,Furniture,Contain,40143,5,11,UPI,Express,3,No,4
+F1313,2025-10-16,CUST289,East Zacharyburgh,Arkansas,Electronics,Accessories,Series,18547,2,20,COD,Standard,6,Yes,2
+F1314,2025-10-26,CUST487,Chapmanmouth,West Virginia,Beauty,Makeup,Choice,8430,5,16,EMI,Express,3,Yes,4
+F1315,2025-09-16,CUST659,West Todd,New Mexico,Home,Kitchen,Build,45503,4,24,Credit Card,Express,2,No,4
+F1316,2025-09-16,CUST433,East Brianbury,Arkansas,Beauty,Makeup,White,32179,1,12,UPI,Standard,5,No,3
+F1317,2025-11-08,CUST608,Amberland,Washington,Electronics,Accessories,Professor,40696,5,17,EMI,Express,7,Yes,5
+F1318,2025-09-27,CUST997,Peterchester,Massachusetts,Beauty,Makeup,Heavy,31141,2,23,UPI,Standard,7,No,3
+F1319,2025-11-15,CUST429,New Joanne,West Virginia,Grocery,Beverages,Whether,37296,5,18,EMI,Express,4,Yes,1
+F1320,2025-10-01,CUST225,Port Misty,Kentucky,Beauty,Skincare,Across,46888,5,22,COD,Express,5,Yes,4
+F1321,2026-02-15,CUST814,North Williamville,California,Electronics,Laptop,Wind,5074,4,16,EMI,Express,5,Yes,4
+F1322,2025-10-29,CUST916,Alyssamouth,Kansas,Electronics,Mobile,Various,38950,2,21,UPI,Standard,3,Yes,4
+F1323,2025-09-21,CUST775,North Tylerhaven,Kansas,Beauty,Skincare,Too,20597,3,10,Credit Card,Express,4,Yes,3
+F1324,2025-11-30,CUST410,Lake Joseph,Colorado,Grocery,Beverages,Civil,9665,4,16,EMI,Standard,4,No,1
+F1325,2025-08-25,CUST188,Roblesborough,Wisconsin,Beauty,Skincare,Out,24109,3,22,COD,Standard,5,Yes,2
+F1326,2025-08-25,CUST576,Danielleshire,Pennsylvania,Home,Furniture,Citizen,38030,5,20,EMI,Standard,3,Yes,1
+F1327,2026-02-02,CUST847,Moranborough,New Hampshire,Fashion,Women Clothing,Radio,22741,2,10,EMI,Express,4,No,1
+F1328,2026-01-07,CUST831,Rebeccafurt,South Carolina,Home,Kitchen,Feel,57532,2,21,Debit Card,Express,5,Yes,3
+F1329,2025-10-30,CUST531,East Christopher,Montana,Beauty,Skincare,Push,15594,1,7,Debit Card,Express,5,Yes,3
+F1330,2025-09-07,CUST810,Marissahaven,Delaware,Beauty,Skincare,By,42224,3,20,UPI,Standard,4,Yes,3
+F1331,2025-10-31,CUST930,Amberhaven,Louisiana,Fashion,Women Clothing,Must,10912,1,18,Credit Card,Standard,5,Yes,5
+F1332,2025-09-25,CUST826,Lake Michealmouth,West Virginia,Electronics,Mobile,Upon,50371,2,19,UPI,Express,3,No,1
+F1333,2025-10-04,CUST635,Harrisbury,Idaho,Fashion,Men Clothing,Assume,53663,1,6,COD,Standard,3,No,3
+F1334,2025-10-22,CUST286,East Monica,Mississippi,Fashion,Men Clothing,Majority,32704,3,12,Credit Card,Standard,3,Yes,5
+F1335,2025-09-01,CUST722,Port Donna,New Jersey,Fashion,Men Clothing,Cultural,12746,4,26,Debit Card,Standard,7,Yes,5
+F1336,2025-10-07,CUST942,Shawntown,New Hampshire,Fashion,Women Clothing,Big,36517,4,11,UPI,Express,5,Yes,4
+F1337,2026-01-15,CUST335,Port Rebecca,Montana,Beauty,Skincare,Left,46472,3,30,UPI,Express,3,Yes,4
+F1338,2025-12-20,CUST643,Goodmanview,Connecticut,Electronics,Accessories,Morning,16977,5,9,Credit Card,Express,2,No,5
+F1339,2025-09-08,CUST718,Margaretside,Maryland,Beauty,Skincare,Another,54895,2,14,UPI,Standard,3,Yes,3
+F1340,2025-09-13,CUST572,Douglasland,Indiana,Grocery,Snacks,Book,5914,3,17,Credit Card,Express,7,Yes,5
+F1341,2026-02-13,CUST721,North Tiffanymouth,Iowa,Home,Furniture,Purpose,45316,3,24,COD,Express,4,Yes,2
+F1342,2026-01-01,CUST783,Jessicahaven,Florida,Beauty,Makeup,Represent,42359,5,14,UPI,Standard,3,Yes,5
+F1343,2025-09-01,CUST869,Kennedyview,Arkansas,Electronics,Mobile,Cover,49574,5,8,UPI,Standard,5,No,3
+F1344,2025-09-01,CUST938,Louisberg,Delaware,Home,Kitchen,Party,4682,2,20,Credit Card,Express,7,No,1
+F1345,2025-11-21,CUST447,Jonesfort,Idaho,Beauty,Skincare,Lay,13706,5,14,Credit Card,Standard,3,Yes,3
+F1346,2025-09-01,CUST959,Kimside,New York,Electronics,Accessories,Clear,4264,1,28,COD,Standard,2,No,2
+F1347,2025-11-05,CUST248,Port Gailbury,Alabama,Electronics,Accessories,Sing,45575,4,24,UPI,Express,2,Yes,4
+F1348,2025-09-11,CUST290,East William,Montana,Fashion,Women Clothing,Around,49507,1,11,EMI,Standard,3,Yes,5
+F1349,2026-02-14,CUST937,Port Scottview,Oklahoma,Beauty,Makeup,Various,43270,4,19,EMI,Standard,2,No,5
+F1350,2025-12-30,CUST272,Cherylmouth,Alaska,Home,Kitchen,Positive,49939,2,19,UPI,Standard,2,Yes,4
+F1351,2025-12-29,CUST182,West Meganland,Oklahoma,Home,Furniture,Include,2208,4,25,Credit Card,Express,5,Yes,2
+F1352,2026-01-14,CUST466,Port Timothystad,Minnesota,Home,Kitchen,Stay,58079,2,26,EMI,Standard,6,Yes,2
+F1353,2025-11-14,CUST729,Rosefort,Maryland,Home,Kitchen,Social,10036,1,15,UPI,Express,7,Yes,5
+F1354,2025-11-02,CUST918,Hillside,Washington,Beauty,Makeup,At,2045,2,29,COD,Express,6,No,2
+F1355,2025-10-13,CUST429,Combsport,California,Home,Kitchen,Contain,49839,1,28,Debit Card,Standard,3,No,3
+F1356,2025-08-22,CUST435,Rogertown,Rhode Island,Electronics,Laptop,Study,936,1,12,COD,Express,5,No,1
+F1357,2025-10-28,CUST869,Port Robertburgh,Utah,Electronics,Mobile,Station,57365,5,26,EMI,Standard,3,No,1
+F1358,2025-09-06,CUST288,North Bobbyhaven,Alaska,Home,Kitchen,Final,14919,1,18,Credit Card,Express,3,No,4
+F1359,2025-10-15,CUST981,Farrellfort,Georgia,Grocery,Beverages,Money,58942,2,17,COD,Standard,2,No,5
+F1360,2025-09-14,CUST812,Blakeborough,Rhode Island,Electronics,Laptop,Agree,10418,2,26,Credit Card,Standard,5,No,4
+F1361,2025-12-13,CUST657,Nataliehaven,Minnesota,Grocery,Snacks,Since,53254,4,14,UPI,Standard,2,Yes,1
+F1362,2026-02-18,CUST149,Courtneyshire,New York,Home,Kitchen,Black,46546,2,17,EMI,Standard,3,Yes,2
+F1363,2025-11-01,CUST156,New Pam,Florida,Beauty,Makeup,Cost,294,5,8,Debit Card,Standard,4,No,3
+F1364,2026-01-14,CUST937,New Brianstad,Kentucky,Grocery,Snacks,Best,49508,3,12,Credit Card,Express,2,No,3
+F1365,2026-02-14,CUST651,Santosstad,New Hampshire,Home,Kitchen,Training,35474,3,14,COD,Express,2,Yes,3
+F1366,2026-01-16,CUST292,Lake Dawn,Ohio,Grocery,Snacks,Hundred,19314,3,10,COD,Express,5,No,4
+F1367,2026-02-18,CUST179,East Anthonyshire,Louisiana,Electronics,Laptop,Choose,33342,3,30,Debit Card,Express,4,Yes,5
+F1368,2025-12-19,CUST233,Davilatown,Vermont,Fashion,Men Clothing,Remember,46878,2,27,Debit Card,Standard,3,Yes,1
+F1369,2025-10-16,CUST383,Walkerberg,Nevada,Fashion,Women Clothing,Foreign,23024,1,19,COD,Express,4,No,3
+F1370,2025-08-21,CUST662,West Heather,North Carolina,Home,Furniture,Leave,42626,4,6,UPI,Express,7,Yes,2
+F1371,2026-01-04,CUST304,South Keith,Wisconsin,Fashion,Men Clothing,Century,51348,1,19,Debit Card,Express,6,No,4
+F1372,2025-09-26,CUST282,North Darlene,Virginia,Fashion,Women Clothing,Night,20873,5,17,UPI,Express,3,No,1
+F1373,2025-12-02,CUST535,South Andrea,Illinois,Fashion,Men Clothing,Investment,51050,2,11,EMI,Express,6,Yes,1
+F1374,2025-08-25,CUST682,Port Donna,Florida,Grocery,Beverages,Military,25481,3,11,EMI,Express,3,Yes,3
+F1375,2025-10-18,CUST114,New Michaelton,Idaho,Fashion,Men Clothing,Cover,13151,1,25,COD,Express,3,Yes,4
+F1376,2025-10-16,CUST769,Kevinton,Idaho,Fashion,Men Clothing,Show,58372,5,23,UPI,Express,2,No,4
+F1377,2026-01-10,CUST146,Port Ryan,Wisconsin,Fashion,Women Clothing,Glass,30314,1,16,Credit Card,Express,2,Yes,3
+F1378,2025-11-23,CUST301,Richardport,Massachusetts,Fashion,Women Clothing,Church,14307,5,7,EMI,Express,7,No,3
+F1379,2025-10-07,CUST533,Lake Whitney,Delaware,Grocery,Beverages,We,25186,1,14,COD,Express,6,Yes,5
+F1380,2026-01-04,CUST628,South Rachel,North Carolina,Electronics,Laptop,Wear,11013,3,8,COD,Express,7,No,5
+F1381,2026-01-08,CUST804,Torreschester,California,Home,Kitchen,Grow,7177,1,25,Debit Card,Standard,5,No,5
+F1382,2026-02-13,CUST279,Stuartfort,Pennsylvania,Electronics,Mobile,Bar,30455,3,18,EMI,Express,5,No,3
+F1383,2026-01-21,CUST696,Isaacport,Connecticut,Home,Kitchen,Answer,29779,1,8,COD,Standard,6,No,3
+F1384,2025-09-13,CUST412,Yatesberg,New Hampshire,Beauty,Skincare,If,23546,5,22,Credit Card,Express,4,No,2
+F1385,2025-11-14,CUST841,Carlview,New York,Beauty,Skincare,Evening,13205,1,7,COD,Express,2,No,2
+F1386,2025-11-28,CUST132,East Brendatown,New York,Home,Furniture,Soldier,54706,5,7,COD,Express,7,No,1
+F1387,2025-11-06,CUST385,East Lisaside,Tennessee,Grocery,Beverages,Along,33037,5,14,EMI,Express,6,Yes,1
+F1388,2026-01-23,CUST867,Davidmouth,Massachusetts,Fashion,Men Clothing,Wrong,5548,5,17,Debit Card,Standard,6,Yes,1
+F1389,2026-01-30,CUST845,Yuton,Louisiana,Fashion,Women Clothing,Dinner,44221,1,24,UPI,Express,2,Yes,4
+F1390,2025-11-19,CUST947,Leeville,Maine,Home,Furniture,Your,17653,2,29,EMI,Standard,4,Yes,2
+F1391,2025-12-28,CUST170,Mcdonaldchester,Vermont,Grocery,Snacks,Indicate,17930,1,10,COD,Standard,4,No,3
+F1392,2026-02-06,CUST684,Port Matthewstad,Arkansas,Electronics,Mobile,Region,55363,3,6,COD,Standard,6,No,4
+F1393,2025-09-13,CUST422,North Michaelfort,Delaware,Beauty,Makeup,Act,41875,3,30,EMI,Express,3,No,2
+F1394,2025-10-30,CUST331,Moniquetown,Maine,Grocery,Beverages,He,43491,3,13,EMI,Standard,7,Yes,3
+F1395,2025-09-01,CUST783,Davidburgh,Mississippi,Grocery,Beverages,Director,21454,2,24,COD,Standard,6,No,5
+F1396,2025-09-07,CUST847,North Scott,Ohio,Electronics,Mobile,Seem,42515,1,27,COD,Express,6,Yes,3
+F1397,2025-12-10,CUST364,Crawfordland,California,Grocery,Beverages,Heart,21883,5,11,Debit Card,Express,5,No,5
+F1398,2025-10-26,CUST594,Castilloville,North Carolina,Home,Kitchen,He,15613,5,24,COD,Standard,2,Yes,4
+F1399,2025-09-30,CUST488,Hillmouth,Oklahoma,Home,Kitchen,Generation,38604,3,23,Credit Card,Standard,7,No,4
+F1400,2025-12-22,CUST160,West Robert,New York,Home,Kitchen,Shoulder,54193,4,30,COD,Standard,5,No,2
+F1401,2025-10-02,CUST144,Port Williestad,Louisiana,Electronics,Accessories,Moment,16586,4,22,Credit Card,Express,4,No,4
+F1402,2025-10-14,CUST403,Bonnieport,Delaware,Fashion,Men Clothing,Fund,39750,5,9,COD,Standard,7,Yes,4
+F1403,2025-12-14,CUST387,Johnsonborough,Texas,Electronics,Accessories,Recent,41879,3,10,COD,Standard,2,Yes,4
+F1404,2025-10-28,CUST936,Riosfurt,Utah,Home,Kitchen,Cause,4404,4,12,UPI,Standard,3,No,1
+F1405,2025-11-11,CUST632,Lake Randyland,Iowa,Electronics,Accessories,Grow,24764,2,13,COD,Standard,6,No,2
+F1406,2025-12-15,CUST658,Lake Victorland,Pennsylvania,Home,Furniture,Fact,36057,1,10,EMI,Standard,4,Yes,2
+F1407,2025-09-27,CUST476,West Walter,Virginia,Grocery,Beverages,Remain,48552,4,14,COD,Express,7,Yes,3
+F1408,2025-10-12,CUST711,Kaylaside,Missouri,Grocery,Beverages,Anything,16856,3,30,UPI,Standard,2,Yes,1
+F1409,2026-01-31,CUST374,Hernandezfurt,Mississippi,Beauty,Makeup,Agent,38608,1,5,Credit Card,Standard,5,Yes,5
+F1410,2025-12-02,CUST331,Chadhaven,Arizona,Electronics,Accessories,Explain,14784,1,27,Credit Card,Standard,4,Yes,2
+F1411,2026-01-29,CUST732,Lake Dianeborough,Hawaii,Fashion,Women Clothing,Could,29363,4,10,UPI,Standard,6,Yes,2
+F1412,2025-12-29,CUST166,Cookmouth,Hawaii,Electronics,Accessories,Involve,41425,2,16,UPI,Express,4,Yes,1
+F1413,2025-10-20,CUST890,Williammouth,North Carolina,Fashion,Women Clothing,Help,34440,3,27,COD,Express,5,No,4
+F1414,2025-09-12,CUST242,Gonzalezchester,Vermont,Grocery,Beverages,Go,32521,2,28,EMI,Standard,7,No,5
+F1415,2026-01-06,CUST131,Stanleymouth,Tennessee,Home,Kitchen,Cost,54128,2,22,UPI,Standard,6,No,4
+F1416,2026-01-11,CUST251,Millerhaven,Louisiana,Home,Furniture,House,37649,5,25,Debit Card,Standard,6,No,4
+F1417,2026-01-19,CUST190,Maddoxfort,Rhode Island,Home,Furniture,Newspaper,8048,2,19,EMI,Express,2,No,1
+F1418,2025-12-11,CUST904,North Kellyhaven,Louisiana,Home,Furniture,Truth,54038,2,17,Debit Card,Standard,4,Yes,2
+F1419,2025-10-16,CUST974,New Kelly,Delaware,Grocery,Beverages,Analysis,45679,2,5,EMI,Express,6,No,4
+F1420,2025-10-14,CUST397,Velezport,South Carolina,Grocery,Beverages,Garden,30942,3,25,Credit Card,Standard,7,No,1
+F1421,2025-12-27,CUST443,Port Mitchellview,New York,Beauty,Skincare,Security,27775,5,5,COD,Standard,5,Yes,4
+F1422,2026-01-10,CUST143,Thomasview,Kansas,Home,Kitchen,Education,43436,1,30,UPI,Express,5,No,5
+F1423,2026-01-20,CUST680,New Dakotaberg,Iowa,Grocery,Beverages,Very,37539,3,27,Debit Card,Standard,7,Yes,5
+F1424,2025-12-12,CUST471,Lawrenceside,Texas,Home,Kitchen,Service,16619,1,20,EMI,Express,4,No,3
+F1425,2025-10-26,CUST484,West Martin,Wisconsin,Fashion,Women Clothing,Table,50792,2,10,Credit Card,Standard,7,Yes,3
+F1426,2025-11-24,CUST194,Smithtown,Missouri,Beauty,Makeup,Degree,46227,3,30,UPI,Express,2,Yes,4
+F1427,2025-10-31,CUST905,Prestonmouth,Ohio,Fashion,Men Clothing,Much,4820,3,5,COD,Express,3,No,2
+F1428,2026-01-04,CUST655,Allenland,Wyoming,Home,Furniture,Fly,30061,2,16,Debit Card,Standard,4,Yes,2
+F1429,2025-12-31,CUST766,Lake Dakotaport,Minnesota,Electronics,Accessories,Blood,25219,1,6,EMI,Express,7,No,2
+F1430,2026-01-07,CUST730,West Ashleychester,Oklahoma,Electronics,Laptop,Mean,23953,5,17,UPI,Standard,5,No,2
+F1431,2025-12-12,CUST672,Port Mary,Iowa,Beauty,Makeup,Outside,10545,2,20,COD,Express,7,No,5
+F1432,2026-01-31,CUST307,Victoriafort,Kentucky,Fashion,Men Clothing,Foot,44016,1,6,COD,Standard,4,Yes,2
+F1433,2025-12-05,CUST917,New Markshire,South Dakota,Home,Furniture,South,53504,3,16,Debit Card,Standard,5,Yes,2
+F1434,2025-12-07,CUST206,Hornberg,Michigan,Beauty,Makeup,International,41445,4,17,COD,Express,6,No,3
+F1435,2026-01-17,CUST780,Scottchester,Arizona,Electronics,Laptop,Least,2571,1,15,Credit Card,Express,7,No,5
+F1436,2025-09-21,CUST170,Willieville,California,Beauty,Makeup,Series,34499,2,5,Debit Card,Express,5,No,1
+F1437,2025-09-16,CUST176,Port James,Illinois,Fashion,Men Clothing,Realize,47893,3,26,UPI,Express,4,No,2
+F1438,2025-09-04,CUST721,East Tina,Mississippi,Fashion,Men Clothing,Ground,42064,4,18,COD,Express,4,Yes,4
+F1439,2025-12-11,CUST670,East Hannah,Kansas,Beauty,Makeup,Research,8337,1,5,UPI,Express,4,Yes,1
+F1440,2025-09-22,CUST189,Crossshire,Missouri,Home,Kitchen,Other,39854,3,29,Credit Card,Standard,3,Yes,2
+F1441,2026-02-15,CUST482,Carlsonbury,Rhode Island,Fashion,Men Clothing,Party,22180,2,28,UPI,Express,6,No,2
+F1442,2026-02-09,CUST831,Julieville,Kentucky,Beauty,Makeup,Language,12226,5,6,EMI,Express,6,Yes,3
+F1443,2025-12-04,CUST208,West Jacksonfurt,Hawaii,Grocery,Snacks,Almost,47397,2,6,COD,Standard,3,Yes,2
+F1444,2026-01-25,CUST756,North Tracey,North Carolina,Grocery,Beverages,Cost,26610,2,16,Credit Card,Standard,7,Yes,4
+F1445,2026-02-14,CUST956,Pamelaberg,New Hampshire,Beauty,Skincare,Must,20318,1,13,Debit Card,Standard,3,Yes,5
+F1446,2025-11-24,CUST609,North Ashleyberg,North Carolina,Fashion,Men Clothing,Agree,20419,2,17,Credit Card,Standard,4,No,1
+F1447,2026-01-25,CUST905,Lake Hollyside,Iowa,Beauty,Makeup,Development,8315,2,15,Credit Card,Express,4,No,5
+F1448,2025-10-30,CUST692,West Franciscoborough,Florida,Beauty,Skincare,Sister,56939,4,23,Debit Card,Standard,4,Yes,4
+F1449,2025-09-24,CUST482,New Sarachester,New Jersey,Home,Kitchen,Risk,6074,5,19,COD,Express,5,Yes,5
+F1450,2025-09-11,CUST934,North Shawn,New Mexico,Electronics,Accessories,Set,51050,5,16,Debit Card,Express,6,Yes,2
+F1451,2025-08-22,CUST604,Wilsonview,North Dakota,Electronics,Accessories,Now,30268,3,10,EMI,Express,5,No,5
+F1452,2025-11-14,CUST154,Jenniferville,Oregon,Fashion,Women Clothing,Respond,33825,2,22,COD,Express,7,Yes,4
+F1453,2025-08-28,CUST803,North Michaelshire,Wisconsin,Grocery,Beverages,Wind,12096,3,14,Debit Card,Standard,6,Yes,4
+F1454,2025-08-29,CUST461,New Angelaville,Vermont,Beauty,Makeup,World,37030,1,21,Credit Card,Express,3,Yes,2
+F1455,2025-09-11,CUST195,Paulport,New York,Fashion,Men Clothing,Sea,14262,3,16,Debit Card,Standard,6,Yes,5
+F1456,2026-02-13,CUST993,Adamside,Wyoming,Fashion,Men Clothing,Still,12219,3,10,Debit Card,Standard,6,Yes,4
+F1457,2026-02-08,CUST422,Greenland,Idaho,Beauty,Skincare,Direction,52830,1,14,Credit Card,Express,5,No,2
+F1458,2025-09-05,CUST986,East Natashastad,Minnesota,Fashion,Women Clothing,Happy,20415,3,15,UPI,Standard,6,No,4
+F1459,2026-02-05,CUST144,Alvarezmouth,California,Electronics,Accessories,Soldier,53690,5,9,EMI,Express,2,No,1
+F1460,2025-12-26,CUST850,New Johnbury,Pennsylvania,Fashion,Men Clothing,Book,15688,1,14,COD,Standard,6,No,4
+F1461,2025-10-31,CUST445,Lake Justinton,Texas,Electronics,Accessories,Cold,19771,5,25,EMI,Express,3,No,1
+F1462,2026-01-04,CUST822,South Darrylhaven,Montana,Fashion,Women Clothing,Require,47747,2,30,COD,Standard,7,Yes,5
+F1463,2026-02-13,CUST205,Gilberttown,Idaho,Electronics,Laptop,Ten,2902,3,24,COD,Express,5,No,5
+F1464,2025-11-11,CUST303,Chambersburgh,Ohio,Beauty,Skincare,Music,36856,1,26,Credit Card,Standard,3,No,1
+F1465,2025-10-06,CUST714,Erinport,Kansas,Home,Kitchen,Meeting,13743,1,15,EMI,Standard,6,No,5
+F1466,2026-02-04,CUST802,South Pamela,Kansas,Beauty,Makeup,Risk,20726,3,9,Debit Card,Express,7,Yes,4
+F1467,2025-10-03,CUST880,Thomasville,Missouri,Home,Kitchen,Increase,5021,2,15,Debit Card,Express,5,No,1
+F1468,2025-10-14,CUST118,New Denise,Arizona,Fashion,Men Clothing,Middle,17200,5,8,COD,Express,7,No,2
+F1469,2025-10-21,CUST327,Howardmouth,California,Fashion,Women Clothing,Save,31664,4,28,Credit Card,Standard,3,Yes,1
+F1470,2026-01-05,CUST176,Hansenport,Georgia,Grocery,Beverages,Must,58151,1,28,Credit Card,Express,5,Yes,2
+F1471,2025-12-20,CUST891,West Donaldbury,New York,Grocery,Beverages,Hot,12238,5,11,COD,Express,4,Yes,4
+F1472,2025-08-24,CUST518,South Nancy,Indiana,Electronics,Laptop,Themselves,42576,2,27,COD,Standard,5,No,3
+F1473,2026-02-16,CUST529,Port Rachael,Illinois,Fashion,Women Clothing,Kitchen,27693,1,5,COD,Express,6,No,2
+F1474,2025-11-03,CUST222,South Anthony,Indiana,Home,Furniture,Probably,41246,5,26,Debit Card,Standard,6,Yes,4
+F1475,2025-11-24,CUST863,South Brian,Alaska,Fashion,Men Clothing,Person,48858,3,13,UPI,Standard,7,No,1
+F1476,2025-09-30,CUST914,Baldwinberg,New Hampshire,Electronics,Accessories,Nearly,55201,1,11,UPI,Express,4,Yes,1
+F1477,2025-12-29,CUST161,Roblesland,Ohio,Grocery,Snacks,Front,41762,2,18,COD,Express,4,No,4
+F1478,2025-12-08,CUST697,South Andreastad,Tennessee,Grocery,Beverages,Explain,8464,4,19,EMI,Express,7,Yes,1
+F1479,2025-11-01,CUST736,New Michaelfort,Pennsylvania,Fashion,Women Clothing,Wonder,8708,4,10,Debit Card,Express,5,Yes,3
+F1480,2025-10-21,CUST316,Lake Erikfort,Montana,Fashion,Men Clothing,Share,14762,1,15,EMI,Standard,7,No,2
+F1481,2026-01-25,CUST446,Alanshire,Arizona,Home,Furniture,Sure,35228,3,20,COD,Standard,5,No,4
+F1482,2025-09-13,CUST320,Port Ravenport,Oregon,Grocery,Snacks,Minute,36589,2,30,UPI,Standard,5,Yes,3
+F1483,2026-01-01,CUST389,East Tylerside,Vermont,Home,Kitchen,Its,55289,5,17,UPI,Standard,6,No,2
+F1484,2026-01-14,CUST172,Marcusside,New Hampshire,Electronics,Accessories,Subject,40364,2,26,Credit Card,Express,4,Yes,5
+F1485,2026-01-10,CUST336,Lake Jennifer,Connecticut,Fashion,Men Clothing,Great,39846,2,29,Credit Card,Express,6,No,5
+F1486,2025-08-29,CUST690,North Katherinefurt,Illinois,Home,Furniture,Billion,5989,4,26,Credit Card,Standard,6,Yes,1
+F1487,2025-10-14,CUST848,Laurenmouth,Wisconsin,Fashion,Men Clothing,Word,34382,2,5,Credit Card,Express,7,No,1
+F1488,2026-02-17,CUST570,West Davidchester,Florida,Fashion,Men Clothing,Pull,51540,3,13,Debit Card,Express,5,No,3
+F1489,2025-10-02,CUST473,West Katherine,Montana,Grocery,Beverages,Computer,47437,1,28,Credit Card,Express,2,No,5
+F1490,2025-10-28,CUST430,Port Prestonmouth,Nebraska,Fashion,Women Clothing,Teach,3019,2,27,Debit Card,Standard,5,No,2
+F1491,2025-09-11,CUST200,Port Rachel,Alaska,Grocery,Beverages,Top,16812,5,26,UPI,Standard,4,No,5
+F1492,2025-09-21,CUST958,Lake Diana,Alaska,Beauty,Makeup,Through,50650,2,18,COD,Express,5,Yes,5
+F1493,2025-10-19,CUST597,South Jasonborough,Nevada,Beauty,Makeup,Draw,26008,4,15,EMI,Standard,5,Yes,2
+F1494,2026-01-16,CUST621,Carlaview,Indiana,Fashion,Men Clothing,Doctor,36561,4,14,Credit Card,Standard,7,Yes,3
+F1495,2025-11-11,CUST914,Port Laura,Idaho,Home,Furniture,Computer,48442,4,18,COD,Express,2,Yes,2
+F1496,2026-02-19,CUST776,Webbstad,Hawaii,Fashion,Men Clothing,Woman,22991,1,10,COD,Standard,7,No,5
+F1497,2025-11-29,CUST613,Comptonmouth,Nebraska,Grocery,Snacks,Road,57578,4,19,COD,Express,4,Yes,5
+F1498,2025-11-09,CUST423,Scottview,Missouri,Home,Kitchen,Popular,35435,5,15,COD,Standard,7,Yes,5
+F1499,2025-09-18,CUST276,Haletown,Delaware,Beauty,Makeup,Take,10148,3,21,Debit Card,Standard,4,No,3
+F1500,2025-10-27,CUST575,Shawnhaven,Hawaii,Electronics,Mobile,Spring,22088,3,26,EMI,Standard,6,No,5
+F1501,2025-11-03,CUST413,West Benjaminton,New Mexico,Beauty,Makeup,Blue,10887,3,16,UPI,Express,7,Yes,2
+F1502,2025-12-26,CUST694,North Michealmouth,Kansas,Electronics,Mobile,Service,20785,1,13,EMI,Express,2,No,1
+F1503,2025-10-06,CUST537,North Jeanview,Connecticut,Beauty,Makeup,Rest,4170,2,22,COD,Express,2,Yes,1
+F1504,2025-12-08,CUST657,Ayalashire,Tennessee,Beauty,Skincare,Culture,40396,2,22,Debit Card,Express,3,No,2
+F1505,2025-12-30,CUST352,Cynthiaview,Georgia,Electronics,Mobile,Far,15365,1,25,UPI,Express,3,Yes,4
+F1506,2026-01-04,CUST671,East Aaron,Colorado,Electronics,Laptop,Production,37015,2,11,Debit Card,Express,4,Yes,4
+F1507,2025-08-21,CUST323,Port Christineton,Georgia,Beauty,Makeup,Tree,4161,2,24,Debit Card,Standard,6,Yes,2
+F1508,2025-10-07,CUST511,Stephensonview,Rhode Island,Grocery,Snacks,Easy,44126,3,15,Credit Card,Express,5,No,4
+F1509,2025-10-25,CUST720,Port Lisaborough,Colorado,Grocery,Beverages,Three,50584,3,8,UPI,Express,5,Yes,3
+F1510,2025-08-29,CUST293,Davidland,Pennsylvania,Home,Furniture,Fine,53091,4,24,COD,Express,5,Yes,4
+F1511,2026-01-11,CUST236,Leonardmouth,Michigan,Home,Furniture,Start,45158,1,30,Credit Card,Express,2,No,4
+F1512,2026-01-17,CUST171,Markberg,Mississippi,Fashion,Women Clothing,Very,5718,3,30,UPI,Express,5,No,4
+F1513,2026-02-08,CUST839,Callahanfort,Wyoming,Grocery,Beverages,Laugh,17923,4,17,UPI,Express,6,No,1
+F1514,2025-09-04,CUST123,North Kathleen,Wisconsin,Beauty,Skincare,Note,45626,5,30,Debit Card,Express,3,Yes,2
+F1515,2026-02-14,CUST765,Lisaside,Idaho,Home,Furniture,Music,59268,2,6,COD,Express,3,Yes,4
+F1516,2025-12-24,CUST894,New Larryville,Hawaii,Home,Furniture,Pm,25432,5,28,COD,Express,2,Yes,1
+F1517,2025-08-25,CUST333,Micheleville,Alaska,Grocery,Beverages,Collection,56878,5,19,EMI,Express,7,No,2
+F1518,2025-12-06,CUST343,North Jamesbury,Massachusetts,Grocery,Snacks,Particular,23182,3,22,Debit Card,Express,2,Yes,2
+F1519,2026-01-24,CUST145,Yateschester,Idaho,Beauty,Makeup,Listen,53523,2,21,UPI,Standard,3,Yes,2
+F1520,2025-11-29,CUST522,Port Caitlinburgh,Massachusetts,Grocery,Snacks,End,8943,1,19,Credit Card,Express,7,No,3
+F1521,2026-01-16,CUST552,East Susanburgh,Idaho,Grocery,Beverages,South,22348,3,12,EMI,Express,2,Yes,1
+F1522,2025-08-21,CUST603,Lake Tiffany,Iowa,Home,Kitchen,Thank,56553,2,6,EMI,Express,2,Yes,4
+F1523,2026-01-17,CUST447,Thomashaven,Iowa,Fashion,Women Clothing,Off,4296,5,23,Debit Card,Standard,3,Yes,4
+F1524,2025-12-02,CUST172,South Michael,South Dakota,Grocery,Beverages,Study,46217,1,23,COD,Express,4,Yes,4
+F1525,2025-11-17,CUST474,Thompsonburgh,South Carolina,Grocery,Snacks,Security,49720,1,27,Credit Card,Standard,6,No,2
+F1526,2025-09-21,CUST256,South Anthonyburgh,North Dakota,Beauty,Makeup,Challenge,30054,5,25,Credit Card,Express,4,No,1
+F1527,2025-09-21,CUST921,Hardyland,Ohio,Grocery,Snacks,Candidate,17277,5,9,UPI,Standard,4,Yes,5
+F1528,2025-11-22,CUST343,East Justintown,Maine,Electronics,Mobile,Analysis,8973,1,15,EMI,Standard,4,No,5
+F1529,2025-10-12,CUST173,South Johnport,Ohio,Grocery,Beverages,Let,7609,1,12,UPI,Express,5,Yes,5
+F1530,2025-08-27,CUST169,Antonioberg,Ohio,Beauty,Makeup,Win,19357,2,21,EMI,Express,4,No,5
+F1531,2025-12-28,CUST898,Lake Natalie,Texas,Home,Kitchen,Court,48699,1,29,Debit Card,Standard,3,No,3
+F1532,2026-01-15,CUST396,Foxton,Texas,Electronics,Laptop,Off,15725,1,27,COD,Standard,3,Yes,1
+F1533,2026-01-11,CUST335,Mendezview,North Dakota,Grocery,Beverages,News,59469,1,27,Credit Card,Express,2,Yes,1
+F1534,2025-12-20,CUST826,Tinamouth,Florida,Grocery,Snacks,National,39862,5,10,COD,Standard,5,Yes,5
+F1535,2025-11-25,CUST645,Jamesport,Montana,Electronics,Accessories,Number,18802,3,17,UPI,Standard,2,No,1
+F1536,2026-01-23,CUST948,West Steven,Vermont,Fashion,Men Clothing,Before,15010,5,13,UPI,Express,3,No,1
+F1537,2025-09-03,CUST650,North Leahshire,Kentucky,Electronics,Laptop,Western,59512,5,5,Debit Card,Express,7,Yes,1
+F1538,2026-02-17,CUST213,South Frankmouth,Mississippi,Electronics,Mobile,Myself,2645,4,23,Debit Card,Express,4,No,1
+F1539,2025-11-26,CUST594,Simonhaven,California,Home,Furniture,Truth,28755,2,21,EMI,Standard,5,Yes,1
+F1540,2026-01-24,CUST720,East Christopherborough,Kansas,Grocery,Snacks,Middle,44025,5,27,EMI,Standard,2,No,1
+F1541,2025-09-02,CUST977,Jonesburgh,Wyoming,Home,Kitchen,Many,11654,5,25,Credit Card,Express,3,Yes,4
+F1542,2025-12-10,CUST111,Anneland,Nebraska,Grocery,Snacks,We,8385,2,15,COD,Express,7,No,2
+F1543,2025-09-27,CUST988,Brooksfort,Nevada,Home,Furniture,Learn,47348,5,20,Credit Card,Express,5,Yes,3
+F1544,2026-01-16,CUST708,North Melissabury,Montana,Home,Furniture,Fight,37648,4,25,Credit Card,Express,2,No,1
+F1545,2025-10-14,CUST283,Cameronton,Oregon,Fashion,Men Clothing,Method,40943,1,19,UPI,Standard,5,Yes,4
+F1546,2025-10-26,CUST180,Kennedyton,Massachusetts,Grocery,Snacks,Whom,2489,3,6,Credit Card,Express,6,Yes,2
+F1547,2025-10-01,CUST169,North Patrickville,Wisconsin,Home,Furniture,Note,35744,2,21,EMI,Express,6,No,1
+F1548,2025-10-11,CUST556,West Mikemouth,Wyoming,Beauty,Skincare,Seven,47503,4,17,Credit Card,Express,3,No,5
+F1549,2025-10-19,CUST554,Kellyburgh,New Hampshire,Home,Kitchen,Poor,45467,2,15,Credit Card,Express,6,Yes,4
+F1550,2025-12-24,CUST615,Elizabethside,New Hampshire,Electronics,Laptop,Trip,54050,2,6,COD,Standard,7,Yes,3
+F1551,2025-12-26,CUST357,Port Donaldberg,Illinois,Fashion,Women Clothing,Conference,47817,5,9,UPI,Standard,5,Yes,3
+F1552,2025-12-08,CUST474,New Jenniferfort,South Dakota,Beauty,Makeup,Seven,46937,4,12,Credit Card,Standard,2,No,2
+F1553,2025-09-16,CUST654,South Omar,Virginia,Fashion,Women Clothing,Concern,22074,2,24,COD,Express,3,No,4
+F1554,2025-12-22,CUST652,Gilbertland,Louisiana,Electronics,Mobile,Set,38720,4,9,Credit Card,Standard,7,No,5
+F1555,2025-09-30,CUST231,East Rebeccaport,Delaware,Home,Furniture,Born,28548,3,10,UPI,Express,3,No,4
+F1556,2025-11-21,CUST343,Nicolestad,Minnesota,Beauty,Skincare,Traditional,24389,2,9,EMI,Standard,6,No,1
+F1557,2025-08-31,CUST250,Davischester,Louisiana,Home,Kitchen,Its,6152,1,9,Credit Card,Standard,3,Yes,2
+F1558,2025-09-01,CUST490,West Jimmychester,Alabama,Grocery,Beverages,Him,24688,2,7,Debit Card,Express,5,Yes,2
+F1559,2026-01-03,CUST720,New Elizabeth,Rhode Island,Electronics,Mobile,Paper,22556,4,16,Debit Card,Standard,7,Yes,2
+F1560,2026-01-31,CUST353,Christinefurt,Vermont,Home,Kitchen,Allow,381,4,21,EMI,Express,4,No,3
+F1561,2026-01-22,CUST992,Kennethside,New Jersey,Grocery,Beverages,Us,6412,1,10,COD,Express,2,No,3
+F1562,2025-11-17,CUST220,Brewerstad,Louisiana,Beauty,Skincare,Energy,21629,5,12,EMI,Standard,6,Yes,2
+F1563,2025-12-17,CUST662,West Tinaburgh,Nevada,Grocery,Beverages,Senior,45706,5,27,COD,Standard,3,Yes,2
+F1564,2025-11-24,CUST405,West Jessicafurt,North Carolina,Electronics,Laptop,Another,46296,4,10,Credit Card,Express,4,No,2
+F1565,2026-01-25,CUST198,Lake Laceyfort,Delaware,Grocery,Beverages,Consumer,49132,3,8,Debit Card,Standard,5,No,4
+F1566,2025-12-27,CUST232,Pattersonside,Georgia,Home,Furniture,While,10233,2,16,UPI,Standard,4,Yes,2
+F1567,2025-12-29,CUST335,New Kimberlytown,Alabama,Beauty,Makeup,New,58928,5,11,COD,Standard,5,No,2
+F1568,2025-11-11,CUST670,East Michelle,Colorado,Electronics,Mobile,While,17921,2,14,EMI,Express,4,Yes,5
+F1569,2025-10-27,CUST658,West Lisatown,Arkansas,Electronics,Laptop,Hope,14521,1,15,Debit Card,Express,5,Yes,1
+F1570,2025-11-16,CUST547,Barbaraville,Pennsylvania,Home,Kitchen,Simple,45633,2,28,Debit Card,Standard,6,No,1
+F1571,2025-10-08,CUST209,Lake Kathleenbury,Montana,Fashion,Women Clothing,Daughter,23189,1,26,COD,Express,2,Yes,3
+F1572,2025-12-04,CUST564,Amyborough,Virginia,Electronics,Mobile,Test,57932,2,5,UPI,Standard,4,No,5
+F1573,2026-02-04,CUST667,Ethanmouth,Montana,Grocery,Snacks,Religious,34731,2,17,Credit Card,Express,6,Yes,1
+F1574,2025-11-26,CUST230,Lake Peter,Oklahoma,Electronics,Laptop,Production,10692,1,26,COD,Standard,7,No,5
+F1575,2026-01-06,CUST498,Port Kelly,New Hampshire,Electronics,Laptop,Relate,18422,5,24,UPI,Standard,2,Yes,3
+F1576,2025-10-06,CUST101,South Timothystad,Tennessee,Fashion,Men Clothing,Because,20513,2,17,Debit Card,Standard,3,No,5
+F1577,2025-11-24,CUST468,Deborahton,North Dakota,Grocery,Beverages,For,55543,5,8,EMI,Standard,7,No,5
+F1578,2026-01-09,CUST262,Amandafort,Arkansas,Grocery,Snacks,Personal,54875,3,6,UPI,Express,3,Yes,5
+F1579,2025-12-22,CUST862,Heathside,Maine,Beauty,Makeup,Pull,13193,5,19,Credit Card,Standard,2,No,2
+F1580,2026-01-16,CUST941,Zunigatown,New Hampshire,Beauty,Skincare,Down,30902,4,17,Credit Card,Standard,5,Yes,4
+F1581,2025-10-10,CUST795,New Carolynstad,Vermont,Fashion,Women Clothing,Middle,48154,3,15,UPI,Standard,4,No,5
+F1582,2025-09-21,CUST286,Lake Sharon,Florida,Beauty,Makeup,Task,42685,2,9,COD,Express,7,Yes,4
+F1583,2025-11-17,CUST943,Sanchezhaven,Colorado,Home,Furniture,Third,41300,5,23,Credit Card,Standard,7,No,4
+F1584,2025-11-04,CUST713,Elizabethland,Michigan,Home,Kitchen,Out,51566,2,14,UPI,Express,5,Yes,4
+F1585,2025-10-03,CUST829,East Dianafurt,Louisiana,Electronics,Accessories,Environment,5874,2,28,Credit Card,Standard,2,Yes,5
+F1586,2025-11-15,CUST690,Acostaberg,Washington,Home,Kitchen,Just,42601,5,25,UPI,Standard,5,No,5
+F1587,2025-12-26,CUST813,New Jeffrey,Wyoming,Grocery,Beverages,Hospital,9057,2,5,COD,Express,5,Yes,2
+F1588,2026-02-16,CUST855,Philliphaven,South Dakota,Fashion,Women Clothing,Attorney,47545,4,26,EMI,Standard,5,Yes,2
+F1589,2025-12-19,CUST171,Andersonborough,Arizona,Beauty,Makeup,Defense,24999,3,8,UPI,Standard,4,No,2
+F1590,2025-08-24,CUST285,Christopherchester,Tennessee,Fashion,Men Clothing,Reflect,22417,1,25,Credit Card,Express,6,No,2
+F1591,2025-10-24,CUST996,Kristenhaven,Oregon,Electronics,Laptop,Act,33023,4,20,EMI,Express,5,No,5
+F1592,2025-10-17,CUST714,Williamtown,North Carolina,Electronics,Laptop,Seem,22030,3,18,UPI,Express,7,Yes,2
+F1593,2025-12-10,CUST785,Lake Joshua,Rhode Island,Beauty,Skincare,Report,18927,3,30,UPI,Standard,7,No,1
+F1594,2025-11-05,CUST380,West Jose,Maine,Beauty,Skincare,Quality,53025,2,8,UPI,Express,5,Yes,2
+F1595,2025-11-01,CUST958,Victoriaborough,South Carolina,Grocery,Snacks,Total,7314,1,18,EMI,Express,2,No,3
+F1596,2026-01-24,CUST468,New Joshuaton,Colorado,Grocery,Beverages,Great,437,5,30,Debit Card,Standard,7,No,3
+F1597,2025-10-30,CUST536,Perkinsmouth,Kentucky,Beauty,Makeup,Hour,45711,1,9,Credit Card,Express,5,No,3
+F1598,2025-09-27,CUST686,Elizabethland,Minnesota,Fashion,Men Clothing,Rate,51608,2,23,UPI,Express,3,Yes,3
+F1599,2025-09-03,CUST780,West Carol,New Jersey,Home,Furniture,Open,6979,5,8,COD,Express,2,Yes,5
+F1600,2025-11-03,CUST778,Christinafort,Nebraska,Home,Furniture,Yes,4404,1,26,Debit Card,Standard,2,No,5
+F1601,2025-12-07,CUST386,Ortizhaven,Utah,Grocery,Beverages,Where,21604,2,7,COD,Standard,4,Yes,1
+F1602,2025-10-12,CUST887,Port Kimberlyburgh,North Carolina,Grocery,Beverages,Hear,41031,4,20,EMI,Express,3,No,2
+F1603,2026-02-07,CUST945,New Daniel,California,Fashion,Men Clothing,Night,39908,5,29,Debit Card,Express,2,No,3
+F1604,2025-10-09,CUST905,Snowfurt,Maine,Fashion,Men Clothing,Fine,52093,5,28,UPI,Standard,6,Yes,5
+F1605,2026-01-26,CUST890,Lake Raymond,Pennsylvania,Electronics,Mobile,Party,286,4,26,UPI,Express,3,Yes,5
+F1606,2025-11-21,CUST422,Debrashire,New York,Home,Furniture,Way,57300,5,24,EMI,Standard,6,Yes,5
+F1607,2025-12-22,CUST346,Leeborough,Missouri,Electronics,Mobile,Manager,40315,1,16,COD,Standard,3,No,1
+F1608,2025-11-03,CUST388,East Brittany,Alabama,Home,Kitchen,Degree,23450,2,19,COD,Standard,6,Yes,3
+F1609,2025-12-25,CUST260,South Karen,California,Beauty,Skincare,Deal,9382,3,28,Debit Card,Express,7,Yes,3
+F1610,2026-01-18,CUST519,Erichaven,Kentucky,Home,Furniture,Movement,26414,5,9,COD,Standard,7,No,1
+F1611,2025-09-07,CUST957,South Susanland,New Mexico,Electronics,Accessories,Section,46275,2,6,EMI,Standard,7,No,5
+F1612,2025-11-12,CUST787,Hannahchester,South Carolina,Grocery,Beverages,Claim,14215,2,24,Credit Card,Standard,2,No,3
+F1613,2025-12-24,CUST310,Thomasburgh,Hawaii,Fashion,Women Clothing,National,50706,2,12,UPI,Express,5,No,5
+F1614,2026-02-08,CUST155,East Jessica,Utah,Fashion,Women Clothing,Story,39752,2,14,UPI,Standard,3,Yes,3
+F1615,2026-02-05,CUST651,East Scott,Wisconsin,Home,Furniture,Author,50080,4,24,Debit Card,Express,5,No,2
+F1616,2025-09-17,CUST240,Boonestad,Florida,Grocery,Snacks,Soldier,56585,2,27,EMI,Standard,7,Yes,4
+F1617,2026-01-02,CUST279,Port Jerry,Delaware,Electronics,Accessories,Friend,17728,4,5,UPI,Express,3,Yes,3
+F1618,2025-11-26,CUST761,Mitchellhaven,South Dakota,Home,Furniture,Production,44984,3,5,Debit Card,Standard,5,No,2
+F1619,2025-08-30,CUST323,New Brianhaven,Rhode Island,Fashion,Men Clothing,Health,21739,2,6,Credit Card,Standard,2,No,2
+F1620,2025-11-12,CUST212,Erinmouth,Rhode Island,Electronics,Accessories,Book,28228,3,5,EMI,Express,5,Yes,1
+F1621,2025-09-09,CUST362,West Nicholas,Texas,Beauty,Makeup,Boy,3232,5,15,Debit Card,Express,7,No,4
+F1622,2025-10-05,CUST699,Port Julie,Nebraska,Grocery,Snacks,Matter,10515,3,10,COD,Standard,3,No,1
+F1623,2025-09-16,CUST787,Gregorymouth,Idaho,Grocery,Snacks,Pm,46052,1,9,EMI,Express,2,No,4
+F1624,2025-09-18,CUST580,Williamsside,Nevada,Home,Furniture,Fish,1022,5,29,Debit Card,Standard,6,Yes,5
+F1625,2025-11-30,CUST320,Raymondland,Arkansas,Grocery,Snacks,Try,24138,2,27,EMI,Standard,3,Yes,4
+F1626,2025-10-05,CUST114,New Bryantown,Indiana,Home,Kitchen,Late,5146,5,21,UPI,Standard,7,No,5
+F1627,2026-01-21,CUST901,Gonzalezton,Tennessee,Fashion,Women Clothing,Major,22126,4,8,EMI,Express,4,Yes,2
+F1628,2025-10-03,CUST948,Hollybury,New Mexico,Electronics,Laptop,Expect,10865,1,12,Credit Card,Standard,5,Yes,5
+F1629,2025-10-19,CUST526,North Jonathanchester,Arkansas,Electronics,Laptop,Color,38437,5,13,EMI,Express,3,No,5
+F1630,2025-12-12,CUST753,Lake Mackenzie,Vermont,Beauty,Skincare,How,24455,5,5,COD,Standard,3,No,5
+F1631,2025-11-21,CUST246,Kelleyton,Maryland,Fashion,Men Clothing,Six,26373,5,17,COD,Express,6,Yes,1
+F1632,2025-10-21,CUST498,East Coreyshire,Utah,Fashion,Men Clothing,Important,35167,5,17,COD,Standard,3,Yes,5
+F1633,2025-08-23,CUST777,Robinsonport,Hawaii,Beauty,Skincare,Crime,49714,5,28,COD,Standard,4,Yes,1
+F1634,2025-11-22,CUST610,Brucechester,North Dakota,Grocery,Snacks,Science,41435,4,18,EMI,Express,3,No,5
+F1635,2025-10-12,CUST765,New Michael,Arkansas,Grocery,Snacks,Perhaps,55208,4,18,UPI,Express,5,Yes,2
+F1636,2025-08-21,CUST297,Stephanieton,Colorado,Home,Furniture,Official,19048,2,24,Debit Card,Standard,6,No,3
+F1637,2025-09-03,CUST140,South Donald,Wyoming,Grocery,Snacks,Stage,51810,4,21,EMI,Express,2,No,5
+F1638,2025-08-22,CUST235,Brooksborough,New Mexico,Home,Kitchen,That,23405,2,19,EMI,Express,5,No,5
+F1639,2025-11-22,CUST190,Carolynstad,Michigan,Beauty,Skincare,Play,26668,2,21,UPI,Express,7,Yes,3
+F1640,2025-10-06,CUST501,Brittneyfurt,Hawaii,Electronics,Laptop,Would,5184,3,27,Credit Card,Express,7,Yes,5
+F1641,2025-08-23,CUST475,Barnesland,Illinois,Home,Kitchen,Like,14457,1,25,UPI,Express,3,No,3
+F1642,2025-11-11,CUST860,Youngton,Mississippi,Beauty,Makeup,House,59135,5,7,COD,Express,2,No,4
+F1643,2025-10-27,CUST657,Kylebury,Tennessee,Fashion,Women Clothing,Strong,24099,3,18,EMI,Standard,3,Yes,3
+F1644,2025-12-23,CUST150,West Dominique,West Virginia,Fashion,Women Clothing,Cultural,33318,5,18,Credit Card,Express,6,Yes,1
+F1645,2026-01-17,CUST553,Castanedamouth,Massachusetts,Electronics,Laptop,Thousand,39181,1,30,EMI,Express,3,No,3
+F1646,2025-10-11,CUST378,Nancyhaven,California,Electronics,Laptop,Cover,32785,1,14,EMI,Standard,3,Yes,3
+F1647,2025-12-14,CUST513,Chadstad,Idaho,Beauty,Skincare,Message,18431,5,9,COD,Standard,5,Yes,3
+F1648,2025-11-22,CUST311,Lake Geoffreyview,Georgia,Home,Furniture,Material,36325,3,27,Credit Card,Standard,7,Yes,1
+F1649,2026-01-05,CUST149,East Justin,Texas,Home,Furniture,Lot,44458,1,25,COD,Express,7,No,2
+F1650,2025-12-20,CUST324,Mooreville,Oklahoma,Grocery,Beverages,Improve,41733,4,20,UPI,Express,7,Yes,5
+F1651,2026-01-20,CUST489,Millerberg,New Hampshire,Fashion,Men Clothing,Development,41827,1,30,EMI,Express,4,No,1
+F1652,2025-12-11,CUST771,East Brandon,Idaho,Beauty,Skincare,Bad,39166,4,30,UPI,Express,6,No,1
+F1653,2026-02-04,CUST713,Royville,Connecticut,Grocery,Snacks,Major,57397,3,15,Debit Card,Standard,6,Yes,2
+F1654,2025-08-28,CUST441,Timothyview,Maine,Home,Furniture,Little,36624,3,8,COD,Standard,7,Yes,3
+F1655,2026-01-04,CUST794,Smithshire,Rhode Island,Fashion,Men Clothing,Team,8292,2,9,Debit Card,Standard,7,No,1
+F1656,2026-01-02,CUST724,East Elizabeth,Minnesota,Electronics,Accessories,Where,37783,1,9,Credit Card,Express,4,No,4
+F1657,2025-09-15,CUST103,Shawland,Maine,Fashion,Women Clothing,Walk,42758,3,10,Debit Card,Standard,6,No,5
+F1658,2025-11-10,CUST931,East Michaelmouth,Delaware,Fashion,Men Clothing,Amount,1647,3,18,EMI,Express,7,No,1
+F1659,2025-11-19,CUST830,Amandafurt,Delaware,Beauty,Makeup,Least,3265,1,8,EMI,Standard,5,No,3
+F1660,2025-11-27,CUST478,Port Annbury,Minnesota,Fashion,Women Clothing,Stay,4299,2,11,COD,Standard,3,Yes,2
+F1661,2025-10-12,CUST256,East Megan,Florida,Grocery,Snacks,Indicate,35672,5,18,EMI,Standard,5,Yes,2
+F1662,2026-01-21,CUST555,Richardshire,Oregon,Fashion,Men Clothing,Brother,7014,3,6,EMI,Standard,7,No,1
+F1663,2025-09-24,CUST472,Hernandezton,Minnesota,Electronics,Mobile,Return,22834,5,17,COD,Express,4,Yes,5
+F1664,2025-10-28,CUST899,Martinezburgh,Wyoming,Beauty,Skincare,Beat,22311,2,27,Debit Card,Express,6,Yes,5
+F1665,2026-02-13,CUST873,West Jacob,Illinois,Electronics,Laptop,Everyone,59149,3,6,EMI,Standard,3,Yes,3
+F1666,2025-09-22,CUST384,East Ashleyport,Texas,Electronics,Laptop,Appear,13248,4,10,COD,Standard,3,Yes,1
+F1667,2025-08-27,CUST452,North Brittany,Indiana,Fashion,Women Clothing,Full,18397,1,10,Credit Card,Express,2,No,2
+F1668,2026-01-14,CUST282,North Lauraville,Utah,Beauty,Makeup,As,54691,4,12,EMI,Express,5,Yes,4
+F1669,2025-11-21,CUST143,East Moniquehaven,Arkansas,Fashion,Men Clothing,Subject,49787,4,6,COD,Express,4,Yes,1
+F1670,2025-11-11,CUST711,Lake Rayborough,Washington,Grocery,Snacks,Usually,8823,2,27,COD,Express,6,Yes,3
+F1671,2026-01-02,CUST857,New Timothy,Oklahoma,Beauty,Skincare,Score,36139,4,9,COD,Express,5,No,1
+F1672,2026-01-16,CUST443,Lisamouth,Ohio,Home,Kitchen,Explain,33404,1,5,COD,Express,5,Yes,4
+F1673,2025-12-30,CUST422,South Ryanfurt,Iowa,Grocery,Beverages,Candidate,5207,3,9,COD,Standard,3,Yes,4
+F1674,2026-01-01,CUST804,Timothymouth,Utah,Electronics,Mobile,Total,40903,1,7,COD,Express,7,Yes,3
+F1675,2025-10-11,CUST691,Port Alexander,California,Fashion,Men Clothing,Child,29916,4,11,Debit Card,Express,5,No,4
+F1676,2025-11-29,CUST448,Colleenberg,North Dakota,Home,Kitchen,Time,49195,3,8,UPI,Standard,7,Yes,4
+F1677,2025-11-03,CUST327,Annchester,North Carolina,Grocery,Beverages,Rule,6844,5,14,EMI,Express,3,No,3
+F1678,2025-11-16,CUST694,Stephaniebury,North Dakota,Fashion,Men Clothing,Go,55964,2,8,Credit Card,Express,4,No,2
+F1679,2026-02-01,CUST743,North Scott,New Hampshire,Fashion,Men Clothing,Accept,27679,4,18,Credit Card,Express,6,No,1
+F1680,2026-01-07,CUST143,Anthonyshire,Maine,Fashion,Women Clothing,Choice,24329,3,12,UPI,Standard,4,No,1
+F1681,2025-09-07,CUST163,North Lynnmouth,Hawaii,Fashion,Men Clothing,Town,15881,4,17,UPI,Express,6,Yes,1
+F1682,2025-09-24,CUST975,Heatherfurt,Maine,Electronics,Accessories,Serve,16740,2,13,EMI,Standard,5,No,3
+F1683,2026-01-30,CUST338,New Eric,Utah,Fashion,Women Clothing,All,57156,4,19,UPI,Standard,6,No,3
+F1684,2025-10-21,CUST736,Karenmouth,Ohio,Beauty,Skincare,Example,59868,3,6,UPI,Express,7,No,5
+F1685,2026-01-15,CUST693,Erinstad,Delaware,Electronics,Mobile,Next,56888,4,23,Debit Card,Express,6,No,1
+F1686,2025-09-08,CUST975,South Thomas,Georgia,Home,Kitchen,South,16668,4,7,UPI,Express,2,Yes,5
+F1687,2025-10-10,CUST259,West Joseph,Oklahoma,Beauty,Makeup,According,10410,5,9,EMI,Express,4,No,2
+F1688,2026-02-03,CUST281,North Robert,North Carolina,Grocery,Snacks,Tonight,48941,1,7,Debit Card,Standard,4,Yes,3
+F1689,2025-11-26,CUST181,North Justinmouth,California,Fashion,Women Clothing,Debate,38943,3,15,COD,Express,7,Yes,2
+F1690,2026-02-03,CUST756,Thomaschester,Rhode Island,Beauty,Skincare,No,43184,2,17,EMI,Standard,2,Yes,5
+F1691,2025-10-28,CUST857,Pamelaton,Florida,Home,Kitchen,Buy,38712,2,20,Credit Card,Express,7,Yes,4
+F1692,2026-02-10,CUST917,Port Jacob,North Carolina,Beauty,Makeup,Yet,27888,3,25,Credit Card,Express,7,No,5
+F1693,2025-11-29,CUST619,Mitchellborough,Arkansas,Electronics,Laptop,Worry,23718,2,15,Credit Card,Express,6,No,5
+F1694,2026-01-05,CUST153,Alisonburgh,Wisconsin,Grocery,Beverages,Step,52328,1,17,UPI,Standard,5,No,5
+F1695,2025-10-01,CUST400,Katherinefurt,Florida,Home,Kitchen,Beat,30495,5,9,EMI,Express,5,Yes,3
+F1696,2025-12-27,CUST810,Port David,Kentucky,Fashion,Women Clothing,Management,443,1,20,EMI,Standard,2,Yes,4
+F1697,2025-11-10,CUST917,Andersonmouth,Kansas,Electronics,Accessories,Society,12941,4,10,EMI,Express,3,No,3
+F1698,2025-09-06,CUST763,Jonathanville,Massachusetts,Grocery,Beverages,Blue,26336,4,10,Debit Card,Express,5,Yes,1
+F1699,2025-11-16,CUST702,East Scottton,Missouri,Fashion,Men Clothing,International,54692,5,18,COD,Standard,5,Yes,2
+F1700,2025-09-03,CUST567,South Cassidyshire,Oregon,Beauty,Makeup,Cultural,13143,1,13,Debit Card,Standard,3,Yes,4
+F1701,2025-09-13,CUST577,Patriciamouth,Delaware,Grocery,Beverages,Debate,54759,1,28,UPI,Express,4,No,2
+F1702,2026-01-01,CUST219,Angelaton,California,Grocery,Beverages,War,15277,3,28,UPI,Express,3,Yes,4
+F1703,2026-01-17,CUST574,Schwartzburgh,Kentucky,Grocery,Beverages,Western,1900,1,19,Credit Card,Standard,7,Yes,1
+F1704,2025-12-27,CUST133,Port Bradmouth,New Hampshire,Home,Furniture,Institution,40649,5,18,Debit Card,Standard,3,No,5
+F1705,2025-08-26,CUST925,South Pamelachester,Maryland,Home,Kitchen,Suffer,25719,1,21,Debit Card,Express,3,Yes,4
+F1706,2026-01-20,CUST987,Pierceland,Idaho,Home,Furniture,Into,26878,4,29,Credit Card,Standard,5,No,1
+F1707,2025-10-04,CUST519,Lynnfort,Wisconsin,Home,Furniture,Year,17202,4,22,EMI,Express,2,No,2
+F1708,2025-11-06,CUST678,Benjaminton,Texas,Home,Kitchen,Economy,55066,2,18,Debit Card,Standard,5,No,4
+F1709,2025-11-12,CUST365,Randallview,North Dakota,Electronics,Mobile,Goal,52392,4,7,Credit Card,Standard,3,No,1
+F1710,2025-08-31,CUST362,East Tiffany,Tennessee,Electronics,Mobile,Then,3704,1,30,EMI,Standard,4,No,1
+F1711,2025-12-07,CUST649,Johnsonshire,Indiana,Home,Kitchen,Participant,52050,5,25,UPI,Express,2,Yes,2
+F1712,2026-02-17,CUST890,West Walterville,Missouri,Grocery,Beverages,Become,13906,2,24,EMI,Express,5,Yes,3
+F1713,2025-12-28,CUST953,Maryburgh,Virginia,Electronics,Mobile,Century,27255,1,17,COD,Express,3,Yes,2
+F1714,2025-08-29,CUST188,Tinaport,Oklahoma,Electronics,Laptop,Visit,54641,1,21,EMI,Express,5,No,4
+F1715,2025-11-29,CUST358,Estradashire,Indiana,Home,Kitchen,Child,55178,3,30,Debit Card,Standard,3,No,2
+F1716,2025-10-30,CUST664,North Adamstad,South Dakota,Beauty,Makeup,Last,29171,4,27,EMI,Standard,5,No,3
+F1717,2025-12-13,CUST271,Victoriaview,Minnesota,Electronics,Mobile,Newspaper,28845,1,12,UPI,Express,6,No,4
+F1718,2026-01-20,CUST805,Shannonborough,Idaho,Grocery,Snacks,Social,56634,3,18,Credit Card,Express,2,Yes,2
+F1719,2025-09-17,CUST551,Lake Crystal,Indiana,Beauty,Makeup,Simple,54993,1,9,EMI,Express,5,No,5
+F1720,2025-10-19,CUST463,Anthonyport,Michigan,Home,Furniture,Action,52294,5,18,EMI,Express,2,Yes,4
+F1721,2025-09-11,CUST462,Christinamouth,Michigan,Beauty,Skincare,American,48123,2,26,Debit Card,Express,3,No,3
+F1722,2026-02-02,CUST938,Lake Karen,Missouri,Beauty,Makeup,Financial,36578,5,23,Debit Card,Standard,7,Yes,1
+F1723,2025-10-01,CUST546,Andrewshire,New York,Grocery,Beverages,Mother,24595,1,8,EMI,Standard,4,No,1
+F1724,2025-09-24,CUST990,Reynoldsberg,Maryland,Grocery,Beverages,Commercial,1030,3,16,UPI,Express,4,No,5
+F1725,2025-11-21,CUST527,New Daniellemouth,Nevada,Grocery,Beverages,Evening,43098,3,13,Credit Card,Standard,7,Yes,5
+F1726,2026-02-14,CUST574,East Danny,Massachusetts,Beauty,Makeup,Training,52838,1,16,Debit Card,Express,5,No,4
+F1727,2025-09-14,CUST775,Melissaberg,Virginia,Electronics,Mobile,Air,29234,2,17,EMI,Express,7,No,5
+F1728,2025-08-23,CUST822,Dalefurt,Pennsylvania,Fashion,Men Clothing,Today,55857,4,15,EMI,Express,4,Yes,5
+F1729,2026-02-16,CUST381,Justinview,Nevada,Electronics,Accessories,Direction,5526,1,30,Debit Card,Standard,6,No,1
+F1730,2025-09-21,CUST510,Port Thomaschester,Wisconsin,Home,Kitchen,Daughter,41944,1,7,Debit Card,Standard,5,Yes,4
+F1731,2025-09-23,CUST792,Lake Eric,Rhode Island,Beauty,Skincare,City,5212,4,9,Debit Card,Standard,4,No,1
+F1732,2025-10-30,CUST895,Richardbury,Delaware,Fashion,Men Clothing,Letter,12096,2,24,UPI,Express,6,No,4
+F1733,2025-09-22,CUST764,North Allen,Pennsylvania,Home,Furniture,Particular,39657,2,18,EMI,Standard,7,Yes,3
+F1734,2025-12-10,CUST767,West Nicholasshire,Iowa,Grocery,Beverages,Always,15645,3,7,Credit Card,Express,5,Yes,2
+F1735,2026-01-13,CUST102,Colleenmouth,Virginia,Fashion,Men Clothing,Serve,6775,4,28,EMI,Standard,2,Yes,4
+F1736,2025-11-11,CUST228,Averyfurt,Indiana,Beauty,Makeup,Clearly,42885,2,13,COD,Standard,2,Yes,4
+F1737,2025-09-28,CUST594,Dianatown,South Dakota,Fashion,Women Clothing,Feeling,58232,2,12,Debit Card,Standard,5,No,4
+F1738,2025-09-02,CUST963,Bennettborough,Rhode Island,Grocery,Beverages,Federal,23275,3,14,Credit Card,Standard,6,No,5
+F1739,2025-09-24,CUST456,East Jeremy,Oklahoma,Home,Furniture,Hold,22874,2,25,UPI,Standard,3,Yes,3
+F1740,2026-01-09,CUST633,North Ashley,Oregon,Beauty,Makeup,Site,7155,1,22,EMI,Standard,5,No,4
+F1741,2025-12-10,CUST315,Westfort,New Jersey,Grocery,Snacks,Building,57461,5,13,COD,Standard,2,No,4
+F1742,2025-10-20,CUST109,North Jennifer,Montana,Home,Kitchen,Prove,25774,1,23,EMI,Standard,4,No,3
+F1743,2025-09-26,CUST263,Victoriamouth,North Carolina,Home,Furniture,Majority,40767,1,11,UPI,Standard,2,No,5
+F1744,2026-01-17,CUST260,Riverstown,Massachusetts,Beauty,Skincare,Film,6071,2,9,Credit Card,Express,5,No,3
+F1745,2025-09-27,CUST309,Kelleyhaven,Mississippi,Beauty,Makeup,Line,17666,1,20,Credit Card,Standard,2,Yes,2
+F1746,2025-09-24,CUST801,Dayport,Connecticut,Home,Kitchen,Bed,53867,2,21,UPI,Standard,7,No,2
+F1747,2025-12-23,CUST518,Perezbury,Colorado,Beauty,Skincare,Sure,9578,2,23,Credit Card,Express,7,No,1
+F1748,2025-09-25,CUST103,West Timothy,Illinois,Beauty,Makeup,Adult,55688,3,7,EMI,Express,4,No,3
+F1749,2025-11-08,CUST115,East Brittanyview,Oklahoma,Fashion,Men Clothing,Real,21037,1,23,COD,Express,3,No,2
+F1750,2026-01-15,CUST972,Simpsonhaven,Vermont,Beauty,Skincare,Always,45001,5,28,Credit Card,Standard,2,Yes,3
+F1751,2026-01-10,CUST174,North Michellefort,New Jersey,Grocery,Snacks,Item,7134,1,5,Debit Card,Standard,6,No,2
+F1752,2026-01-21,CUST757,Brettbury,Massachusetts,Beauty,Makeup,Black,13921,3,12,COD,Express,4,No,5
+F1753,2025-12-16,CUST428,Dunntown,Maine,Home,Kitchen,Reflect,17834,3,6,UPI,Standard,3,Yes,5
+F1754,2025-12-22,CUST603,Orrview,Virginia,Fashion,Men Clothing,Fill,19009,4,11,EMI,Express,2,No,3
+F1755,2025-09-16,CUST420,Port Alexander,Tennessee,Home,Furniture,Big,48463,1,23,EMI,Standard,7,No,1
+F1756,2025-11-18,CUST312,Robertsshire,South Dakota,Home,Furniture,Speech,2577,3,24,COD,Express,2,No,2
+F1757,2026-02-15,CUST679,Lake Carol,Rhode Island,Grocery,Beverages,Best,54626,2,29,EMI,Express,7,Yes,2
+F1758,2025-11-28,CUST677,Masonborough,New Mexico,Home,Furniture,Plan,38523,5,20,COD,Express,6,Yes,2
+F1759,2025-11-15,CUST872,Staffordfurt,Arizona,Grocery,Snacks,Buy,28394,5,8,COD,Standard,5,No,5
+F1760,2025-09-18,CUST688,Dannyhaven,Ohio,Grocery,Snacks,Heavy,7486,2,26,Debit Card,Express,6,No,1
+F1761,2025-12-19,CUST159,East Joelstad,Massachusetts,Fashion,Men Clothing,Money,38647,1,15,EMI,Express,2,Yes,1
+F1762,2025-12-09,CUST266,Port Theresa,New York,Grocery,Beverages,Real,12388,2,15,Debit Card,Express,4,No,3
+F1763,2025-11-30,CUST778,South Melinda,Alabama,Fashion,Women Clothing,Specific,34409,5,7,Debit Card,Express,2,No,2
+F1764,2026-01-15,CUST845,Lewishaven,Kansas,Grocery,Beverages,Tonight,56732,4,20,UPI,Standard,2,Yes,3
+F1765,2026-01-12,CUST726,Shawnhaven,North Carolina,Electronics,Laptop,Current,56703,2,23,COD,Express,6,No,2
+F1766,2025-09-13,CUST773,North Michelle,Kentucky,Electronics,Laptop,Consider,29993,3,24,Credit Card,Standard,5,Yes,5
+F1767,2026-01-16,CUST458,North Eric,Illinois,Grocery,Snacks,Trial,48027,1,15,Credit Card,Standard,5,No,5
+F1768,2025-11-21,CUST594,North Anna,Georgia,Grocery,Beverages,From,41882,1,8,EMI,Standard,3,No,5
+F1769,2025-11-02,CUST700,West William,North Dakota,Beauty,Makeup,Guy,37902,2,22,EMI,Express,4,No,4
+F1770,2025-12-26,CUST607,East Dawnport,Ohio,Electronics,Mobile,Experience,5133,4,11,Credit Card,Express,5,Yes,4
+F1771,2025-11-06,CUST134,New Joshua,New Mexico,Grocery,Beverages,Another,27624,4,12,Credit Card,Express,5,No,4
+F1772,2025-12-20,CUST418,Fryetown,Utah,Grocery,Snacks,Method,22233,3,18,COD,Express,3,Yes,5
+F1773,2025-10-28,CUST996,West Cynthia,Tennessee,Electronics,Laptop,Small,44407,4,20,Credit Card,Express,7,Yes,2
+F1774,2026-01-07,CUST251,Adrianamouth,South Dakota,Home,Furniture,Role,38383,3,8,COD,Express,4,No,5
+F1775,2026-02-10,CUST880,Christopherfort,Missouri,Home,Kitchen,Machine,35429,1,26,Debit Card,Express,6,No,2
+F1776,2026-02-12,CUST874,Bowersmouth,Arkansas,Home,Kitchen,Tax,54549,5,12,COD,Standard,6,No,5
+F1777,2026-02-18,CUST206,Gonzalezview,Vermont,Fashion,Men Clothing,Him,39544,1,6,EMI,Express,3,No,5
+F1778,2026-02-19,CUST981,Lake Jorge,Ohio,Home,Furniture,Home,34249,5,22,Debit Card,Standard,5,No,1
+F1779,2025-09-04,CUST497,East Matthewview,Florida,Beauty,Skincare,Bit,22970,5,8,EMI,Standard,4,No,4
+F1780,2025-11-05,CUST412,Catherineburgh,Utah,Beauty,Skincare,Minute,10626,2,24,Credit Card,Standard,7,Yes,2
+F1781,2026-02-02,CUST691,West Julia,Florida,Home,Furniture,Help,1353,3,25,UPI,Standard,2,Yes,5
+F1782,2025-10-26,CUST727,South Maryfurt,New Mexico,Electronics,Laptop,Bag,3790,3,30,Credit Card,Standard,3,Yes,1
+F1783,2026-02-05,CUST810,Dicksonton,Connecticut,Beauty,Makeup,Image,25481,4,7,Credit Card,Express,7,Yes,1
+F1784,2026-02-01,CUST422,Lake Heather,Hawaii,Electronics,Accessories,Firm,16772,5,20,EMI,Express,6,No,4
+F1785,2025-11-02,CUST614,East Lori,New York,Grocery,Snacks,Anyone,17065,4,23,Credit Card,Express,7,No,2
+F1786,2025-10-13,CUST980,Paceton,Wisconsin,Fashion,Women Clothing,Physical,25320,1,7,EMI,Standard,5,Yes,1
+F1787,2025-11-29,CUST252,Batesfort,Hawaii,Home,Kitchen,Into,54967,4,29,UPI,Standard,4,Yes,5
+F1788,2025-12-12,CUST567,Debrabury,West Virginia,Fashion,Women Clothing,Recent,3655,2,30,COD,Standard,4,No,1
+F1789,2025-09-12,CUST883,Carlatown,Colorado,Beauty,Makeup,Can,29028,4,16,UPI,Standard,6,No,5
+F1790,2025-10-25,CUST897,Boltonport,Georgia,Fashion,Women Clothing,Form,12334,5,23,Debit Card,Standard,6,No,1
+F1791,2025-11-18,CUST600,New Juliaberg,Kansas,Grocery,Beverages,Blue,7323,1,6,Debit Card,Express,5,Yes,2
+F1792,2025-12-03,CUST386,East Michael,New York,Beauty,Skincare,Let,45549,1,16,UPI,Standard,4,Yes,4
+F1793,2025-12-26,CUST178,Lake Kara,Virginia,Beauty,Makeup,Method,21070,4,5,Debit Card,Express,4,Yes,3
+F1794,2025-11-02,CUST328,Port Karenchester,Maryland,Electronics,Laptop,Opportunity,29462,1,12,UPI,Express,2,Yes,2
+F1795,2026-01-06,CUST930,Cooperbury,Colorado,Beauty,Skincare,Race,9153,4,19,Credit Card,Standard,5,Yes,4
+F1796,2026-02-11,CUST874,Johnbury,Illinois,Electronics,Mobile,Approach,56800,2,12,Credit Card,Express,7,Yes,4
+F1797,2025-10-29,CUST530,Juliechester,South Carolina,Grocery,Snacks,Machine,42496,2,12,Credit Card,Express,4,No,1
+F1798,2025-12-10,CUST654,Lopezburgh,Vermont,Beauty,Skincare,Up,6189,4,24,COD,Standard,5,No,3
+F1799,2025-10-28,CUST297,North Chadberg,Arizona,Grocery,Beverages,Bar,29837,1,5,EMI,Standard,3,No,5
+F1800,2025-12-09,CUST163,Meltonchester,Pennsylvania,Beauty,Makeup,Lawyer,52850,3,20,EMI,Standard,5,Yes,2
+F1801,2026-02-15,CUST299,Port Bonnie,Iowa,Fashion,Men Clothing,Language,37254,2,28,Debit Card,Express,4,Yes,4
+F1802,2025-10-18,CUST544,Port Emilyshire,Michigan,Beauty,Makeup,Score,46838,2,18,Debit Card,Standard,2,No,5
+F1803,2026-01-28,CUST750,North Amy,Minnesota,Electronics,Accessories,Minute,3317,4,12,EMI,Standard,5,Yes,1
+F1804,2025-12-13,CUST480,West Angelaville,Oregon,Electronics,Laptop,Social,44157,5,5,UPI,Express,4,No,2
+F1805,2025-12-06,CUST110,North Robertshire,Pennsylvania,Beauty,Skincare,Pull,19138,1,29,UPI,Express,3,Yes,5
+F1806,2025-12-24,CUST292,Cervanteshaven,Delaware,Grocery,Beverages,Eye,30578,5,9,EMI,Standard,3,No,4
+F1807,2026-01-25,CUST956,West Daniel,Connecticut,Home,Furniture,Per,46192,1,15,COD,Express,6,Yes,1
+F1808,2026-02-09,CUST517,Rodrigueztown,Kentucky,Beauty,Skincare,Whether,9137,2,16,COD,Express,2,Yes,1
+F1809,2025-12-10,CUST270,Williamtown,Kentucky,Beauty,Skincare,Painting,41206,5,9,Credit Card,Express,5,Yes,5
+F1810,2025-12-19,CUST754,West Marcus,North Carolina,Electronics,Mobile,Improve,38670,1,29,Debit Card,Express,7,Yes,5
+F1811,2026-01-17,CUST181,South Brandi,Alaska,Fashion,Men Clothing,Middle,8989,2,20,EMI,Standard,7,No,1
+F1812,2026-01-25,CUST154,Roseville,Florida,Home,Kitchen,Pay,40766,4,21,EMI,Standard,5,Yes,3
+F1813,2025-09-28,CUST160,Kevinburgh,New Jersey,Home,Kitchen,Every,53882,3,25,UPI,Express,3,Yes,2
+F1814,2025-11-06,CUST797,South Robertstad,Minnesota,Fashion,Men Clothing,Remain,45383,5,12,EMI,Standard,6,No,4
+F1815,2025-08-25,CUST532,Foxstad,Pennsylvania,Fashion,Men Clothing,Catch,7138,4,21,Debit Card,Express,2,No,4
+F1816,2025-10-20,CUST926,Mckaymouth,New Jersey,Electronics,Mobile,Unit,17250,3,20,Credit Card,Standard,6,No,2
+F1817,2025-11-20,CUST419,Christopherville,Arizona,Electronics,Laptop,Create,20093,4,19,Credit Card,Express,5,Yes,1
+F1818,2025-10-21,CUST670,Port Tinatown,Missouri,Electronics,Accessories,Pass,35068,1,22,EMI,Standard,6,No,5
+F1819,2025-09-17,CUST805,Melissatown,North Dakota,Home,Furniture,Service,8090,1,30,UPI,Express,5,Yes,1
+F1820,2025-08-24,CUST974,East Daniel,New York,Home,Furniture,Campaign,6889,3,16,EMI,Standard,6,No,3
+F1821,2025-08-29,CUST279,East Anthonyfort,Virginia,Grocery,Beverages,Of,56612,5,22,UPI,Express,6,No,3
+F1822,2025-12-12,CUST236,Christineborough,Nevada,Home,Kitchen,Management,29249,3,28,Credit Card,Express,5,No,5
+F1823,2025-09-12,CUST285,Lake Andrew,Georgia,Beauty,Skincare,Brother,57857,3,17,Credit Card,Standard,3,Yes,1
+F1824,2025-12-13,CUST666,New Hannahchester,Kansas,Beauty,Skincare,Decade,9287,3,18,Credit Card,Standard,5,Yes,3
+F1825,2025-11-12,CUST817,Port Zachary,Alaska,Beauty,Skincare,Do,37096,5,7,Debit Card,Standard,4,Yes,3
+F1826,2025-12-14,CUST982,Kimstad,New York,Beauty,Makeup,Probably,24937,4,21,UPI,Standard,5,No,5
+F1827,2025-11-28,CUST641,New Elizabethshire,Minnesota,Beauty,Makeup,Star,6405,2,23,Credit Card,Standard,6,No,1
+F1828,2025-09-06,CUST139,South Donna,California,Fashion,Women Clothing,Recently,43612,5,24,EMI,Express,2,Yes,5
+F1829,2026-01-17,CUST808,Chaseberg,Missouri,Electronics,Mobile,Scientist,10388,4,16,Credit Card,Express,5,Yes,1
+F1830,2025-11-23,CUST206,Smithborough,Pennsylvania,Grocery,Snacks,Product,13888,4,27,Credit Card,Standard,6,Yes,5
+F1831,2026-01-04,CUST934,West Robertstad,Kansas,Fashion,Women Clothing,Be,41021,1,25,Credit Card,Express,7,Yes,2
+F1832,2025-10-26,CUST139,Annestad,New Hampshire,Home,Furniture,Left,16362,5,9,Debit Card,Express,4,No,3
+F1833,2025-10-16,CUST364,Port Austinfurt,North Dakota,Electronics,Laptop,Use,38820,5,9,EMI,Express,5,Yes,3
+F1834,2025-09-15,CUST767,East Pamela,Arkansas,Home,Kitchen,Others,33998,1,16,COD,Express,4,Yes,3
+F1835,2025-12-16,CUST195,Lake Heatherfurt,South Carolina,Beauty,Makeup,Large,46256,3,21,EMI,Standard,6,Yes,1
+F1836,2026-02-10,CUST317,Port Davidfort,Georgia,Fashion,Men Clothing,Light,50963,3,10,UPI,Standard,7,No,5
+F1837,2026-01-22,CUST488,Fergusonmouth,New Mexico,Beauty,Skincare,Sit,53068,2,14,Credit Card,Standard,3,No,2
+F1838,2025-11-22,CUST581,Shannonmouth,Alaska,Electronics,Mobile,Present,59834,3,14,EMI,Standard,7,Yes,4
+F1839,2025-11-19,CUST990,Lucasshire,Arkansas,Electronics,Laptop,Subject,55611,3,15,COD,Standard,7,No,3
+F1840,2025-11-25,CUST758,Aprilmouth,Alabama,Grocery,Beverages,Turn,8742,5,7,COD,Standard,5,Yes,2
+F1841,2026-01-01,CUST381,Mooneyshire,Delaware,Beauty,Skincare,Nearly,54852,3,10,UPI,Standard,3,Yes,1
+F1842,2025-12-23,CUST846,Lake Kimberly,Kentucky,Beauty,Makeup,Hit,12204,3,7,Debit Card,Standard,6,Yes,5
+F1843,2025-10-21,CUST313,South Sabrina,Montana,Electronics,Mobile,Mr,34460,3,11,Debit Card,Standard,7,Yes,1
+F1844,2025-12-03,CUST870,West Marieborough,South Carolina,Home,Kitchen,Instead,41714,4,11,EMI,Standard,7,No,4
+F1845,2026-02-15,CUST134,Carterland,West Virginia,Grocery,Snacks,Keep,12180,5,15,EMI,Standard,6,Yes,5
+F1846,2026-01-04,CUST774,North Josephburgh,Colorado,Grocery,Snacks,Factor,59105,5,26,UPI,Express,5,Yes,1
+F1847,2026-01-14,CUST440,Danielburgh,New Jersey,Grocery,Snacks,Tonight,53840,5,17,Credit Card,Standard,4,No,1
+F1848,2025-11-25,CUST813,Danielleville,Iowa,Beauty,Makeup,Open,38103,2,30,Debit Card,Standard,6,Yes,3
+F1849,2026-01-14,CUST691,South Susan,Alabama,Beauty,Skincare,Left,12764,5,13,UPI,Express,6,Yes,3
+F1850,2025-11-06,CUST837,Smithbury,Minnesota,Grocery,Snacks,In,43569,5,23,Debit Card,Express,6,Yes,1
+F1851,2026-02-02,CUST971,North Nancystad,North Carolina,Electronics,Laptop,Such,43982,5,22,Debit Card,Standard,4,No,5
+F1852,2026-01-02,CUST804,Jamiemouth,Minnesota,Beauty,Skincare,Share,37919,2,24,Credit Card,Standard,6,No,3
+F1853,2025-08-25,CUST422,Lake Rebecca,Missouri,Electronics,Accessories,Early,38608,5,21,EMI,Express,7,Yes,4
+F1854,2026-02-18,CUST891,Franklinland,Vermont,Electronics,Mobile,Sign,24355,5,9,Credit Card,Express,4,No,4
+F1855,2025-11-11,CUST561,Lake Larry,South Dakota,Beauty,Skincare,Before,26004,3,26,COD,Standard,7,Yes,5
+F1856,2025-11-24,CUST704,Jacobshire,Louisiana,Home,Kitchen,Place,51434,3,13,Credit Card,Express,2,Yes,2
+F1857,2025-10-27,CUST132,South Nicholaston,New Jersey,Beauty,Makeup,Commercial,44076,3,6,Credit Card,Standard,3,Yes,1
+F1858,2025-11-20,CUST514,South Mary,New Mexico,Beauty,Makeup,Interesting,25514,4,9,EMI,Standard,6,Yes,1
+F1859,2025-09-18,CUST135,Port Pamela,New Mexico,Electronics,Accessories,Success,9440,5,7,EMI,Standard,2,Yes,4
+F1860,2025-09-21,CUST413,Summersshire,New Jersey,Grocery,Snacks,View,51650,4,11,Debit Card,Express,3,No,5
+F1861,2025-11-08,CUST983,West Francisburgh,Washington,Grocery,Beverages,Investment,10353,3,18,COD,Standard,4,No,5
+F1862,2026-02-08,CUST684,West Kennethport,New York,Electronics,Laptop,Face,1044,1,7,COD,Express,2,Yes,4
+F1863,2025-09-16,CUST668,East Jillshire,Wyoming,Home,Kitchen,Nothing,41344,2,12,Credit Card,Standard,6,Yes,5
+F1864,2025-09-28,CUST789,New Anthony,Oklahoma,Beauty,Makeup,Marriage,5732,2,18,COD,Standard,3,No,2
+F1865,2025-12-24,CUST780,Ortegahaven,Vermont,Grocery,Beverages,Personal,35714,2,24,Credit Card,Express,7,Yes,5
+F1866,2025-08-30,CUST664,Katieland,Kansas,Home,Kitchen,Stage,14755,5,9,COD,Express,7,No,4
+F1867,2026-01-20,CUST267,Robertchester,South Dakota,Beauty,Makeup,Red,51063,5,26,EMI,Express,6,No,3
+F1868,2025-10-22,CUST325,Michaelborough,Oregon,Grocery,Snacks,Visit,22877,2,23,COD,Express,2,Yes,2
+F1869,2025-09-27,CUST588,Clintonport,Arkansas,Grocery,Beverages,Play,22619,4,18,Debit Card,Standard,5,No,3
+F1870,2026-01-20,CUST463,Stevensonville,Connecticut,Grocery,Snacks,Firm,34489,4,18,Debit Card,Express,6,No,3
+F1871,2025-12-24,CUST807,Myersmouth,Kentucky,Fashion,Women Clothing,Need,30656,2,7,Credit Card,Standard,2,No,4
+F1872,2025-09-24,CUST836,Gutierrezville,New Hampshire,Electronics,Mobile,Describe,28095,4,17,COD,Express,6,Yes,3
+F1873,2026-02-01,CUST541,East Amyberg,Arizona,Beauty,Skincare,Resource,27600,1,14,EMI,Standard,5,Yes,3
+F1874,2025-10-26,CUST708,East Jorge,Maine,Electronics,Accessories,Country,872,3,19,Credit Card,Express,7,Yes,5
+F1875,2025-09-09,CUST411,Ryanton,Georgia,Beauty,Makeup,Hot,30479,2,19,COD,Express,7,No,3
+F1876,2025-09-27,CUST122,Andreachester,Colorado,Beauty,Makeup,Player,28470,4,15,Credit Card,Express,4,No,4
+F1877,2025-09-11,CUST458,Rogerbury,Vermont,Home,Furniture,Town,41823,1,22,Credit Card,Standard,4,No,5
+F1878,2025-09-03,CUST625,Port Peter,Illinois,Grocery,Snacks,Yes,49309,3,5,EMI,Standard,2,No,2
+F1879,2026-01-01,CUST472,Christianport,Nebraska,Beauty,Makeup,West,7834,1,30,Credit Card,Express,3,Yes,2
+F1880,2025-09-26,CUST766,Lake Danielberg,Hawaii,Home,Kitchen,At,42831,1,29,Debit Card,Express,4,Yes,3
+F1881,2025-08-29,CUST423,Lake Rachelport,Wyoming,Fashion,Women Clothing,Important,23626,2,28,Credit Card,Standard,5,No,3
+F1882,2026-01-18,CUST505,Coreyburgh,Massachusetts,Electronics,Mobile,Every,53437,3,12,Debit Card,Express,3,Yes,4
+F1883,2025-11-30,CUST779,Kimborough,Mississippi,Beauty,Skincare,Sit,40251,1,21,EMI,Standard,6,No,2
+F1884,2025-10-15,CUST261,Harringtontown,South Dakota,Fashion,Women Clothing,Pick,8388,4,20,COD,Express,2,Yes,4
+F1885,2025-09-02,CUST690,East Christopher,South Dakota,Beauty,Makeup,Author,5674,1,26,COD,Express,5,Yes,5
+F1886,2026-01-10,CUST546,Markport,North Dakota,Beauty,Makeup,Exactly,45642,1,23,Debit Card,Express,7,No,5
+F1887,2026-01-01,CUST693,East Steven,Connecticut,Home,Furniture,Scene,2847,5,20,COD,Standard,3,No,5
+F1888,2025-08-24,CUST833,Franklinside,Virginia,Electronics,Accessories,Available,16479,5,26,EMI,Express,2,No,4
+F1889,2025-12-16,CUST482,East Tyler,New Mexico,Beauty,Makeup,Laugh,38573,4,28,COD,Express,4,No,5
+F1890,2025-12-23,CUST750,West Jerry,Illinois,Electronics,Mobile,Green,55082,4,25,UPI,Standard,2,No,3
+F1891,2025-12-26,CUST436,West William,Oklahoma,Fashion,Men Clothing,Yet,51990,3,30,Debit Card,Standard,4,No,4
+F1892,2025-12-21,CUST704,New Brianton,North Dakota,Fashion,Men Clothing,Race,1518,2,5,UPI,Standard,5,No,5
+F1893,2026-02-08,CUST116,West Julie,North Dakota,Electronics,Accessories,Message,40315,4,26,Credit Card,Express,6,No,3
+F1894,2025-10-18,CUST839,Joseberg,Georgia,Fashion,Women Clothing,Doctor,56944,1,28,COD,Standard,2,No,2
+F1895,2026-01-17,CUST791,East Jenniferhaven,Louisiana,Fashion,Men Clothing,Miss,1992,3,8,COD,Standard,7,Yes,1
+F1896,2026-01-12,CUST239,West Bradley,Mississippi,Electronics,Accessories,Grow,54614,3,19,EMI,Standard,5,No,4
+F1897,2025-11-19,CUST424,Kylefort,Nevada,Fashion,Women Clothing,School,12301,2,10,UPI,Standard,3,No,1
+F1898,2025-10-10,CUST245,Lake Richard,New York,Beauty,Skincare,Provide,41835,5,27,Credit Card,Express,7,No,3
+F1899,2026-01-13,CUST804,Port Angelicachester,Utah,Beauty,Makeup,Traditional,7503,2,30,COD,Standard,2,Yes,5
+F1900,2025-09-04,CUST799,East Brenda,Idaho,Electronics,Laptop,Up,765,4,23,Debit Card,Express,3,Yes,1
+F1901,2025-12-03,CUST992,North Tracy,Texas,Fashion,Women Clothing,Learn,58705,1,13,EMI,Standard,4,No,1
+F1902,2026-01-17,CUST980,West Nicole,Hawaii,Electronics,Laptop,Direction,39170,4,27,COD,Standard,4,No,4
+F1903,2025-11-15,CUST992,East Carolmouth,North Carolina,Beauty,Makeup,Price,58219,3,25,Credit Card,Standard,5,Yes,4
+F1904,2026-01-20,CUST999,Meyersfurt,Iowa,Electronics,Accessories,Future,31743,5,10,EMI,Standard,3,No,4
+F1905,2025-10-13,CUST629,South Caleb,Rhode Island,Beauty,Skincare,Only,18696,2,29,EMI,Express,6,Yes,2
+F1906,2026-01-11,CUST157,Jonesland,Maryland,Beauty,Skincare,We,49729,3,9,COD,Express,5,No,3
+F1907,2025-12-02,CUST570,Lake Bryanbury,Kentucky,Grocery,Snacks,Official,26016,3,24,Debit Card,Standard,2,No,1
+F1908,2025-09-30,CUST520,East Brandibury,Hawaii,Grocery,Beverages,Lose,13790,2,12,Debit Card,Standard,6,No,2
+F1909,2025-11-11,CUST162,West Carl,Colorado,Beauty,Makeup,Peace,33708,2,24,EMI,Standard,4,No,4
+F1910,2025-11-26,CUST268,Port Randy,New York,Electronics,Laptop,Country,32239,4,13,COD,Standard,5,No,4
+F1911,2026-01-16,CUST908,Lake Johnfurt,Vermont,Home,Furniture,Effect,26320,2,27,UPI,Express,6,No,2
+F1912,2025-09-22,CUST811,Ambershire,Maryland,Fashion,Men Clothing,Eye,819,1,16,COD,Standard,7,Yes,5
+F1913,2025-12-28,CUST742,Jonathantown,Louisiana,Grocery,Beverages,Off,50944,5,16,UPI,Standard,2,No,4
+F1914,2026-02-17,CUST281,New Marie,Alabama,Beauty,Skincare,Style,28870,4,20,UPI,Express,6,No,4
+F1915,2025-12-02,CUST100,Angelahaven,New Jersey,Beauty,Skincare,Yeah,1141,3,11,EMI,Standard,3,Yes,1
+F1916,2025-11-15,CUST537,Angelatown,New Mexico,Grocery,Snacks,Difference,59555,1,28,Debit Card,Standard,2,Yes,1
+F1917,2025-10-03,CUST956,New Jeffrey,Michigan,Beauty,Skincare,Indeed,16447,3,15,Credit Card,Standard,6,Yes,5
+F1918,2025-12-04,CUST184,Wallston,Delaware,Fashion,Women Clothing,Entire,20163,4,15,Debit Card,Express,2,Yes,2
+F1919,2025-12-01,CUST227,Shieldsshire,Minnesota,Beauty,Skincare,Community,39311,4,10,EMI,Standard,2,Yes,4
+F1920,2025-09-26,CUST694,Nicolehaven,Alaska,Electronics,Laptop,Good,3811,3,19,EMI,Express,5,Yes,5
+F1921,2026-01-16,CUST462,Nancyhaven,Minnesota,Fashion,Women Clothing,Trouble,54720,4,26,UPI,Standard,7,Yes,2
+F1922,2025-12-23,CUST705,Williamsmouth,New Jersey,Beauty,Makeup,Land,37303,5,11,COD,Express,6,Yes,3
+F1923,2025-12-16,CUST884,New Johnberg,New Jersey,Fashion,Men Clothing,Traditional,58326,4,13,Debit Card,Express,4,No,5
+F1924,2026-01-16,CUST137,West Jasonborough,Montana,Electronics,Mobile,Nation,44365,1,9,EMI,Express,7,No,3
+F1925,2026-02-01,CUST646,Lake Christophermouth,Washington,Electronics,Accessories,Police,6161,4,18,UPI,Standard,3,No,5
+F1926,2025-10-18,CUST196,Hillborough,Minnesota,Electronics,Laptop,As,8294,5,25,Debit Card,Express,6,Yes,4
+F1927,2026-02-01,CUST310,Chadfurt,Tennessee,Grocery,Beverages,Be,8150,3,12,COD,Express,3,No,4
+F1928,2025-11-03,CUST617,Jenniferview,North Dakota,Grocery,Snacks,Professor,51780,1,23,UPI,Express,5,No,5
+F1929,2026-02-12,CUST956,East Brandi,Florida,Electronics,Laptop,Determine,12796,5,23,Debit Card,Express,5,Yes,4
+F1930,2025-10-01,CUST199,North John,Arizona,Fashion,Men Clothing,Yourself,55317,1,10,EMI,Express,5,Yes,4
+F1931,2025-09-26,CUST373,West Michael,Georgia,Fashion,Men Clothing,Degree,32208,5,15,Credit Card,Express,3,Yes,5
+F1932,2025-11-08,CUST566,Murrayville,West Virginia,Electronics,Accessories,Structure,14873,3,7,COD,Express,3,Yes,4
+F1933,2026-01-25,CUST395,East Vanessa,New York,Grocery,Beverages,Crime,48284,1,28,Credit Card,Express,5,Yes,4
+F1934,2025-11-01,CUST984,Allisonside,Nebraska,Grocery,Snacks,Deal,29285,3,28,UPI,Express,2,Yes,2
+F1935,2025-12-21,CUST408,Port Tylershire,Florida,Grocery,Beverages,Time,45454,2,5,COD,Express,4,Yes,4
+F1936,2026-01-29,CUST908,Murilloview,New York,Fashion,Women Clothing,Third,24791,5,17,COD,Standard,6,No,3
+F1937,2025-09-14,CUST160,Port Randyfurt,Alaska,Home,Furniture,Begin,23440,5,23,Debit Card,Standard,6,Yes,2
+F1938,2026-02-02,CUST871,East Nathan,North Carolina,Home,Furniture,Your,48043,1,28,Credit Card,Standard,7,Yes,2
+F1939,2025-12-06,CUST641,Gonzalezview,Iowa,Grocery,Snacks,Economy,22968,4,5,COD,Express,2,Yes,1
+F1940,2025-11-19,CUST496,Gailfort,Massachusetts,Beauty,Makeup,True,46664,4,30,EMI,Express,5,Yes,1
+F1941,2026-02-01,CUST539,East Brett,Ohio,Fashion,Women Clothing,Message,29334,2,29,COD,Express,3,Yes,3
+F1942,2025-10-05,CUST317,Cameronmouth,Colorado,Grocery,Snacks,Space,49855,3,20,Credit Card,Express,2,Yes,1
+F1943,2025-09-27,CUST827,Oliviatown,Delaware,Grocery,Beverages,Item,42200,3,18,UPI,Express,7,No,4
+F1944,2025-12-17,CUST649,North Kimberly,New York,Fashion,Men Clothing,Class,38295,2,6,Credit Card,Standard,4,Yes,5
+F1945,2025-10-25,CUST188,New Kenneth,Utah,Electronics,Accessories,Themselves,19877,2,15,COD,Express,5,Yes,4
+F1946,2025-12-01,CUST370,Kaylaland,Massachusetts,Electronics,Mobile,Letter,3184,4,17,UPI,Express,5,No,5
+F1947,2025-09-01,CUST965,Lake Charleschester,Missouri,Home,Furniture,Face,17456,4,16,Debit Card,Express,2,Yes,4
+F1948,2025-12-03,CUST807,Barberberg,Alabama,Fashion,Women Clothing,Save,54681,2,21,Credit Card,Standard,6,Yes,4
+F1949,2026-02-08,CUST844,Kellyside,California,Grocery,Beverages,Force,50086,5,29,Credit Card,Standard,4,No,4
+F1950,2026-01-13,CUST909,East Lisa,Alaska,Fashion,Women Clothing,Course,20606,4,29,Credit Card,Express,5,Yes,1
+F1951,2025-10-15,CUST771,South Chad,Massachusetts,Electronics,Mobile,Alone,57069,3,20,Credit Card,Standard,2,No,1
+F1952,2025-11-02,CUST492,South Yvette,Alabama,Grocery,Beverages,Source,27212,3,19,UPI,Express,5,Yes,5
+F1953,2025-11-25,CUST782,East Joshua,South Dakota,Grocery,Snacks,Beat,32175,4,30,EMI,Express,2,Yes,5
+F1954,2025-09-17,CUST362,Kevinchester,Connecticut,Electronics,Mobile,Hit,17423,2,30,EMI,Express,5,No,5
+F1955,2025-12-19,CUST567,North Maryhaven,South Dakota,Grocery,Snacks,Series,44290,2,11,EMI,Standard,6,No,5
+F1956,2026-01-02,CUST439,Ashleyborough,Illinois,Beauty,Skincare,Determine,48160,3,19,COD,Express,7,No,5
+F1957,2026-01-28,CUST287,West Benjamin,Iowa,Grocery,Snacks,Practice,15977,3,8,Debit Card,Standard,5,No,5
+F1958,2026-01-16,CUST240,Hayesville,Texas,Grocery,Beverages,Student,57842,1,13,COD,Express,3,Yes,3
+F1959,2025-12-11,CUST923,Yorkstad,Rhode Island,Grocery,Beverages,See,45977,5,27,UPI,Express,5,Yes,1
+F1960,2025-10-20,CUST266,South Katieshire,West Virginia,Beauty,Makeup,Assume,55334,1,21,Credit Card,Standard,4,Yes,3
+F1961,2025-12-13,CUST120,Porterberg,Hawaii,Fashion,Women Clothing,Special,17448,4,14,UPI,Express,7,No,5
+F1962,2026-02-13,CUST285,West Johnshire,Colorado,Grocery,Beverages,Trouble,27715,2,28,EMI,Express,5,Yes,2
+F1963,2025-11-30,CUST730,Lake Jacob,Utah,Home,Furniture,Arm,25590,1,8,UPI,Standard,6,Yes,2
+F1964,2025-12-18,CUST656,East Grace,New York,Fashion,Women Clothing,Guy,435,4,8,Debit Card,Standard,5,Yes,1
+F1965,2025-10-27,CUST372,Richardsontown,Arizona,Fashion,Men Clothing,Responsibility,7327,2,8,UPI,Standard,7,No,4
+F1966,2025-11-14,CUST426,South Brittney,Texas,Home,Kitchen,Along,25650,5,14,EMI,Express,2,No,5
+F1967,2025-11-23,CUST369,Annettefort,Alabama,Electronics,Accessories,Wait,22050,1,29,UPI,Express,7,Yes,5
+F1968,2026-02-05,CUST283,Freemantown,Tennessee,Grocery,Snacks,Data,28609,2,29,COD,Express,3,Yes,4
+F1969,2025-11-14,CUST662,East Janet,Virginia,Grocery,Snacks,Challenge,58748,2,10,Debit Card,Express,6,No,3
+F1970,2025-10-13,CUST419,Port Justinshire,Wisconsin,Home,Furniture,Might,57728,5,25,UPI,Standard,6,No,1
+F1971,2025-10-15,CUST665,Allisonville,Massachusetts,Electronics,Accessories,Certain,11376,5,14,Debit Card,Express,5,Yes,4
+F1972,2025-09-06,CUST407,North Emilyville,Pennsylvania,Home,Furniture,Fire,9089,2,9,UPI,Standard,7,Yes,1
+F1973,2025-09-02,CUST268,Griffinstad,Montana,Grocery,Beverages,Fly,2556,2,24,Credit Card,Express,5,No,1
+F1974,2025-10-22,CUST851,South Julie,Wisconsin,Beauty,Makeup,Movement,48457,2,26,UPI,Express,7,Yes,3
+F1975,2025-10-09,CUST523,Aprilport,Nevada,Electronics,Accessories,Get,48699,2,21,Credit Card,Standard,3,Yes,2
+F1976,2025-12-19,CUST401,Scottfort,Wyoming,Home,Furniture,Too,30123,2,6,Credit Card,Standard,6,Yes,5
+F1977,2025-08-29,CUST353,Clarkfurt,Georgia,Electronics,Laptop,Energy,49544,5,24,Credit Card,Express,3,No,5
+F1978,2025-10-25,CUST483,Meltonhaven,Nebraska,Beauty,Makeup,Nearly,33789,4,29,UPI,Express,7,Yes,4
+F1979,2025-09-21,CUST658,North Heather,New Mexico,Fashion,Men Clothing,Including,9023,5,22,Debit Card,Standard,7,No,3
+F1980,2025-12-29,CUST467,Alexandraview,California,Electronics,Accessories,Fund,27387,3,7,Credit Card,Express,7,Yes,4
+F1981,2025-10-31,CUST763,South Richard,Delaware,Fashion,Men Clothing,Say,34257,5,6,Debit Card,Express,5,No,4
+F1982,2025-09-19,CUST992,Greenburgh,Tennessee,Fashion,Women Clothing,Support,1350,2,29,EMI,Express,6,No,5
+F1983,2026-01-17,CUST136,West Jenniferfort,Arkansas,Grocery,Snacks,Mrs,756,3,7,EMI,Standard,2,No,3
+F1984,2025-12-17,CUST543,North Lisa,Oklahoma,Electronics,Laptop,Politics,53902,5,9,UPI,Standard,7,Yes,4
+F1985,2025-10-19,CUST666,Williamchester,Texas,Home,Kitchen,Very,55918,3,17,COD,Standard,3,Yes,1
+F1986,2025-09-22,CUST976,East Chad,Tennessee,Beauty,Makeup,Lead,34962,4,5,COD,Express,7,Yes,4
+F1987,2026-02-10,CUST578,Randallfort,Wyoming,Fashion,Men Clothing,Mind,17980,2,30,UPI,Express,7,No,4
+F1988,2025-12-30,CUST280,Connerview,Hawaii,Home,Furniture,Form,48294,2,16,EMI,Express,2,No,1
+F1989,2025-10-11,CUST948,East Peter,North Carolina,Grocery,Snacks,Yet,45396,3,17,COD,Express,3,Yes,3
+F1990,2025-10-17,CUST430,North Richardland,New Mexico,Electronics,Accessories,Recognize,7367,4,14,Credit Card,Express,2,Yes,5
+F1991,2026-01-27,CUST332,West Nicholas,Idaho,Home,Kitchen,Put,1596,3,10,Debit Card,Express,3,No,5
+F1992,2025-09-20,CUST971,North Saratown,Nevada,Grocery,Snacks,Skill,4103,1,29,UPI,Standard,4,Yes,5
+F1993,2025-10-02,CUST525,New Cathymouth,South Dakota,Electronics,Mobile,President,54736,4,16,EMI,Standard,4,No,2
+F1994,2025-12-25,CUST455,Andersonview,Louisiana,Fashion,Women Clothing,Our,19108,1,20,Credit Card,Express,6,No,5
+F1995,2025-11-05,CUST191,Zacharymouth,Nevada,Fashion,Men Clothing,Apply,8982,4,13,EMI,Express,2,No,4
+F1996,2025-10-15,CUST304,West Theodore,Nevada,Fashion,Men Clothing,Forward,9172,3,28,EMI,Standard,6,No,3
+F1997,2025-10-03,CUST949,New Stevenchester,Arkansas,Beauty,Skincare,Others,10848,5,27,EMI,Express,2,No,3
+F1998,2025-10-26,CUST445,Wallchester,Illinois,Home,Furniture,List,24778,1,22,Credit Card,Standard,6,No,5
+F1999,2025-10-31,CUST667,North Amandahaven,Hawaii,Fashion,Women Clothing,Or,14043,5,24,UPI,Standard,4,No,4
